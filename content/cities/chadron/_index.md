@@ -1,6 +1,6 @@
 ---
 title: Chadron
 url: /chadron/
-latitude: 42.829419
-longitude: -102.99990700000001
+latitude: 42.830980700000005
+longitude: -103.0003729
 ---

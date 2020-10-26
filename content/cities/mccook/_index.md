@@ -1,6 +1,6 @@
 ---
 title: McCook
 url: /mccook/
-latitude: 40.201542
-longitude: -100.62565400000001
+latitude: 40.2006859
+longitude: -100.6257666
 ---

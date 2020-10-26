@@ -1,4 +1,4 @@
 ---
-title: "Baker's Candies"
+title: "Bakers Candies"
 url: /greenwood/bakers-candies/
 ---

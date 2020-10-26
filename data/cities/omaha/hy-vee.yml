@@ -1,12 +1,12 @@
-id: 170680054
-type: way
+id: 7539421879
+type: node
 shop: supermarket
-latitude: 41.2665991
-longitude: -96.11872650000001
-postcode: "68154"
+latitude: 41.242224300000004
+longitude: -95.9944679
+postcode: "68106"
 city: Omaha
-street: "North 132nd Street"
-housenumber: 747
-phone: ""
-opening_hours: ""
-website: "https://www.hy-vee.com/"
+street: "Center Street"
+housenumber: 5150
+phone: "+1-402-553-2664"
+opening_hours: "Mo-Su 06:00-23:00"
+website: "https://hy-vee.com/"

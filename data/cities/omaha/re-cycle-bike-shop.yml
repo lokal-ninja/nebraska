@@ -1,12 +1,12 @@
-id: 3363825779
-type: node
+id: 329505260
+type: way
 shop: bicycle
-latitude: 41.241285000000005
-longitude: -95.9844898
+latitude: 41.241347100000006
+longitude: -95.9845782
 postcode: "68106"
 city: Omaha
 street: "Center Street"
 housenumber: 4701
-phone: "+1-402-344-SALE"
-opening_hours: "Tu-Th 10:00-18:00; Fr,Sa 10:00-17:00"
-website: "http://www.recyclebikeshop.net/"
+phone: "+1-402-344-7253"
+opening_hours: "Tu-Sa 10:00-17:00"
+website: "recyclebikeshop.net"

@@ -1,6 +1,6 @@
 ---
 title: Sidney
 url: /sidney/
-latitude: 41.14383
-longitude: -102.97728400000001
+latitude: 41.144868200000005
+longitude: -102.9767382
 ---
