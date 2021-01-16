@@ -1,6 +1,6 @@
 ---
 title: Gering
 url: /gering/
-latitude: 41.8259059
-longitude: -103.66054290000001
+latitude: 41.822692700000005
+longitude: -103.66037
 ---
