@@ -1,6 +1,5 @@
 id: 7530452658
 type: node
-shop: beauty
 latitude: 40.9130996
 longitude: -96.5321418
 postcode: "68462"
@@ -8,5 +7,5 @@ city: Waverly
 street: "Guildford Street"
 housenumber: 13901
 phone: "+1-402-786-2032"
-opening_hours: "Tuesday-Friday 10:00-20:00 Saturday 10:00-15:00"
+opening_hours: "Tu-Fr 10:00-20:00; Sa 10:00-15:00"
 website: ""

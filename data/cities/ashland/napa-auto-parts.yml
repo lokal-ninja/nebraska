@@ -1,6 +1,5 @@
 id: 7527789824
 type: node
-shop: car parts
 latitude: 41.038852500000004
 longitude: -96.36924420000001
 postcode: "68003"
@@ -8,5 +7,5 @@ city: Ashland
 street: "Silver Street"
 housenumber: 1437
 phone: "+1-402-944-3421"
-opening_hours: "Mo-Fr 07:30-17:30 Saturday 07:30-13:00"
+opening_hours: "Mo-Fr 07:30-17:30; Sa 07:30-13:00"
 website: "napaonline.com"
