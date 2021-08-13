@@ -1,5 +1,5 @@
 ---
 title: "Big Brain Productions"
-url: /omaha-ne/big-brain-productions/
+url: /omaha/big-brain-productions/
 shop: tattoo
 ---

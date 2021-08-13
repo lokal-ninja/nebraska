@@ -1,5 +1,5 @@
 ---
 title: "Superior Honda of Omaha"
-url: /omaha-ne/superior-honda-of-omaha/
+url: /omaha/superior-honda-of-omaha/
 shop: car
 ---

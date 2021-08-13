@@ -1,6 +1,6 @@
 ---
 title: Memphis
 url: /memphis/
-latitude: 41.0949989
-longitude: -96.431404
+latitude: 41.0950598
+longitude: -96.4319172
 ---
