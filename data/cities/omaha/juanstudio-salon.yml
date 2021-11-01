@@ -7,5 +7,5 @@ city: Omaha
 street: "Leavenworth Street"
 housenumber: 4342
 phone: "+1-402-812-3807"
-opening_hours: "Wednesday, Thursday & Friday 10:00-19:00 Saturday & Sunday 07:00-18:00 Monday 11:00-19:00"
+opening_hours: "We,Th,Fr 10:00-19:00; Sa,Su 07:00-18:00; Mo 11:00-19:00"
 website: "https://juanstudiosalon.business.site/"

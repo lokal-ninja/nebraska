@@ -1,5 +1,5 @@
 ---
 title: "Indigo Bridge"
 url: /lincoln/indigo-bridge/
-shop: shop
+shop: books
 ---
