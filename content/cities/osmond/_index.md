@@ -1,6 +1,6 @@
 ---
 title: Osmond
 url: /osmond/
-latitude: 
-longitude: 
+latitude: 42.366
+longitude: -97.549
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pro Transmission"
 url: /lincoln/pro-transmission/
-shop: shop
+shop: Allgemein
 ---

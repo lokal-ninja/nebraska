@@ -1,6 +1,6 @@
 ---
 title: Wahoo
 url: /wahoo/
-latitude: 41.2111084
-longitude: -96.6197985
+latitude: 41.215
+longitude: -96.622
 ---

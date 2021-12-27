@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /lincoln/gnc/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

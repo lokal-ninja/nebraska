@@ -1,5 +1,5 @@
 ---
 title: "SaveMore"
 url: /lyons/savemore/
-shop: supermarket
+shop: Supermarkt
 ---

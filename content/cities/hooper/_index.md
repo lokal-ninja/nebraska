@@ -1,6 +1,6 @@
 ---
 title: Hooper
 url: /hooper/
-latitude: 41.611694
-longitude: -96.5476704
+latitude: 41.607
+longitude: -96.559
 ---

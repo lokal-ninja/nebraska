@@ -1,6 +1,6 @@
 ---
 title: Fremont
 url: /fremont/
-latitude: 41.4338363
-longitude: -96.4960449
+latitude: 41.443
+longitude: -96.483
 ---

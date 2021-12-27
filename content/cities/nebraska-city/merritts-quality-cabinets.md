@@ -1,5 +1,5 @@
 ---
 title: "Merritt's Quality Cabinets"
 url: /nebraska-city/merritts-quality-cabinets/
-shop: doityourself
+shop: Baumarkt
 ---

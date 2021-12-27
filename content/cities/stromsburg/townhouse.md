@@ -1,5 +1,5 @@
 ---
 title: "TownHouse"
 url: /stromsburg/townhouse/
-shop: gift
+shop: Andenken
 ---

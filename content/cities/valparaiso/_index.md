@@ -1,6 +1,6 @@
 ---
 title: Valparaiso
 url: /valparaiso/
-latitude: 41.081402600000004
-longitude: -96.83416620000001
+latitude: 41.082
+longitude: -96.835
 ---

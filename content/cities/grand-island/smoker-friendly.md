@@ -1,5 +1,5 @@
 ---
 title: "Smoker Friendly"
 url: /grand-island/smoker-friendly/
-shop: convenience
+shop: Lebensmittel
 ---

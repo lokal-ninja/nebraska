@@ -1,6 +1,6 @@
 ---
 title: Pender
 url: /pender/
-latitude: 42.114025000000005
-longitude: -96.7072294
+latitude: 42.107
+longitude: -96.706
 ---

@@ -1,6 +1,6 @@
 ---
 title: Springview
 url: /springview/
-latitude: 42.824341000000004
-longitude: -99.7487162
+latitude: 42.824
+longitude: -99.748
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TOOFast Supply"
 url: /lincoln/toofast-supply/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,6 +1,6 @@
 ---
 title: Holdrege
 url: /holdrege/
-latitude: 40.4379956
-longitude: -99.3698995
+latitude: 40.438
+longitude: -99.385
 ---

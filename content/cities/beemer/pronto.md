@@ -1,5 +1,5 @@
 ---
 title: "Pronto"
 url: /beemer/pronto/
-shop: convenience
+shop: Lebensmittel
 ---

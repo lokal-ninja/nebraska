@@ -1,6 +1,6 @@
 ---
 title: Fairbury
 url: /fairbury/
-latitude: 40.137225
-longitude: -97.180591
+latitude: 40.163
+longitude: -97.176
 ---

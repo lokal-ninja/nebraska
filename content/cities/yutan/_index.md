@@ -1,6 +1,6 @@
 ---
 title: Yutan
 url: /yutan/
-latitude: 41.244922
-longitude: -96.3972555
+latitude: 41.234
+longitude: -96.395
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Northwest Storage"
 url: /lincoln/northwest-storage/
-shop: storage rental
+shop: Mieten
 ---

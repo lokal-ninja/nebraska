@@ -1,6 +1,6 @@
 ---
 title: Lyons
 url: /lyons/
-latitude: 41.937502900000005
-longitude: -96.47706140000001
+latitude: 41.938
+longitude: -96.471
 ---

@@ -1,5 +1,5 @@
 ---
 title: "One Salon"
 url: /waterloo/one-salon/
-shop: beauty
+shop: Kosmetik
 ---

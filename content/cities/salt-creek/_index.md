@@ -1,6 +1,6 @@
 ---
 title: Salt Creek
 url: /salt-creek/
-latitude: 
-longitude: 
+latitude: 41.015
+longitude: -96.388
 ---

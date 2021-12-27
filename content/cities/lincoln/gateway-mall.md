@@ -1,5 +1,5 @@
 ---
 title: "Gateway Mall"
 url: /lincoln/gateway-mall/
-shop: mall
+shop: Einkaufszentrum
 ---

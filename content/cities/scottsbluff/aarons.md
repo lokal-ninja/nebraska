@@ -1,5 +1,5 @@
 ---
 title: "Aaron's"
 url: /scottsbluff/aarons/
-shop: doityourself
+shop: Baumarkt
 ---

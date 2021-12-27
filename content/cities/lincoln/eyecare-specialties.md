@@ -1,5 +1,5 @@
 ---
 title: "Eyecare Specialties"
 url: /lincoln/eyecare-specialties/
-shop: optician
+shop: Optiker
 ---

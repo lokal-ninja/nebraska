@@ -1,5 +1,5 @@
 ---
 title: "Casey's General Store"
 url: /valley/caseys-general-store/
-shop: shop
+shop: Allgemein
 ---

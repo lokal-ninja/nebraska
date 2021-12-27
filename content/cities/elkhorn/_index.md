@@ -1,6 +1,6 @@
 ---
 title: Elkhorn
 url: /elkhorn/
-latitude: 41.2860699
-longitude: -96.2346121
+latitude: 41.286
+longitude: -96.232
 ---

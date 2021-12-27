@@ -1,6 +1,6 @@
 ---
 title: Kearney
 url: /kearney/
-latitude: 40.490621600000004
-longitude: -98.9472344
+latitude: 40.701
+longitude: -99.082
 ---
