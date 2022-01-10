@@ -1,5 +1,5 @@
 ---
 title: "Snack Masters, LLC"
 url: /omaha/snack-masters-llc/
-shop: Bioladen
+shop: health food
 ---

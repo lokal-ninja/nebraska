@@ -1,5 +1,5 @@
 ---
 title: "Montage"
 url: /grand-island/montage/
-shop: Kosmetik
+shop: beauty
 ---

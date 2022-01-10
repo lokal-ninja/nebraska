@@ -1,5 +1,5 @@
 ---
 title: "Boutiqu"
 url: /lincoln/boutiqu/
-shop: Blumen
+shop: florist
 ---

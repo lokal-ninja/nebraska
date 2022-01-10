@@ -1,5 +1,5 @@
 ---
 title: "Beauty Boutique Salon"
 url: /omaha/beauty-boutique-salon/
-shop: Kosmetik
+shop: beauty
 ---

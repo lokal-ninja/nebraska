@@ -1,5 +1,5 @@
 ---
 title: "Salon 21"
 url: /ashland/salon-21/
-shop: Kosmetik
+shop: beauty
 ---

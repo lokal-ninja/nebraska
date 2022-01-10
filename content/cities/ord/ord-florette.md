@@ -1,5 +1,5 @@
 ---
 title: "Ord Florette"
 url: /ord/ord-florette/
-shop: Blumen
+shop: florist
 ---

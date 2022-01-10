@@ -1,5 +1,5 @@
 ---
 title: "Peterson's Supermarket"
 url: /gothenburg/petersons-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

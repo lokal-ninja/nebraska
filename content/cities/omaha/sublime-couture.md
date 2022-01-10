@@ -1,5 +1,5 @@
 ---
 title: "Sublime Couture"
 url: /omaha/sublime-couture/
-shop: Kleidung
+shop: clothes
 ---

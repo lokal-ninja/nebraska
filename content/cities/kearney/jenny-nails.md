@@ -1,5 +1,5 @@
 ---
 title: "Jenny Nails"
 url: /kearney/jenny-nails/
-shop: Kosmetik
+shop: beauty
 ---

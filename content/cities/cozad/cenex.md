@@ -1,5 +1,5 @@
 ---
 title: "Cenex"
 url: /cozad/cenex/
-shop: Lebensmittel
+shop: convenience
 ---

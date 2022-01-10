@@ -1,5 +1,5 @@
 ---
 title: "Fiat of Omaha"
 url: /omaha/fiat-of-omaha/
-shop: Autohaus
+shop: car
 ---

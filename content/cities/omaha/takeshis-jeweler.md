@@ -1,5 +1,5 @@
 ---
 title: "Takeshi's Jeweler"
 url: /omaha/takeshis-jeweler/
-shop: Schmuck
+shop: jewelry
 ---

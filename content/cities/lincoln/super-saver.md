@@ -1,5 +1,5 @@
 ---
 title: "Super Saver"
 url: /lincoln/super-saver/
-shop: Supermarkt
+shop: supermarket
 ---

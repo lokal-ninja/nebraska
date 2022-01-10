@@ -1,5 +1,5 @@
 ---
 title: "African Grocery Store"
 url: /grand-island/african-grocery-store/
-shop: Supermarkt
+shop: supermarket
 ---

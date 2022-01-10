@@ -1,5 +1,5 @@
 ---
 title: "Elkhorn Automotive"
 url: /waterloo/elkhorn-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

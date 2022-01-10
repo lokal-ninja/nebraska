@@ -1,5 +1,5 @@
 ---
 title: "Salvaged Soul Tattoo"
 url: /omaha/salvaged-soul-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

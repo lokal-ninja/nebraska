@@ -1,5 +1,5 @@
 ---
 title: "Vogue Nails"
 url: /omaha/vogue-nails/
-shop: Kosmetik
+shop: beauty
 ---

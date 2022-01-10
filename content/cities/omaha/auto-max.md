@@ -1,5 +1,5 @@
 ---
 title: "Auto MAX"
 url: /omaha/auto-max/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Star City Motor Sports"
 url: /lincoln/star-city-motor-sports/
-shop: Autohaus
+shop: car
 ---

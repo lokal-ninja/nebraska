@@ -1,5 +1,5 @@
 ---
 title: "Barnyard Garage"
 url: /greenwood/barnyard-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

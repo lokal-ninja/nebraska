@@ -1,5 +1,5 @@
 ---
 title: "VF Outlet"
 url: /nebraska-city/vf-outlet/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Mittmender"
 url: /omaha/the-mittmender/
-shop: Dorfladen
+shop: general
 ---

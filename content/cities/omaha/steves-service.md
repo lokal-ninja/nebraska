@@ -1,5 +1,5 @@
 ---
 title: "Steve's Service"
 url: /omaha/steves-service/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Exclusive Repair"
 url: /omaha/exclusive-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

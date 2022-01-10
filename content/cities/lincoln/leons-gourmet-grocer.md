@@ -1,5 +1,5 @@
 ---
 title: "Leon's Gourmet Grocer"
 url: /lincoln/leons-gourmet-grocer/
-shop: Supermarkt
+shop: supermarket
 ---

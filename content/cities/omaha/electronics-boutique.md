@@ -1,5 +1,5 @@
 ---
 title: "Electronics Boutique"
 url: /omaha/electronics-boutique/
-shop: Hifi
+shop: hifi
 ---

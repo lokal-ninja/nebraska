@@ -1,5 +1,5 @@
 ---
 title: "RPM Powersports"
 url: /omaha/rpm-powersports/
-shop: Motorrad
+shop: motorcycle
 ---

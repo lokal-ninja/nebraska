@@ -1,5 +1,5 @@
 ---
 title: "Wannabee's Vintage"
 url: /omaha/wannabees-vintage/
-shop: Kleidung
+shop: clothes
 ---

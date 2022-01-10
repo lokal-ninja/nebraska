@@ -1,5 +1,5 @@
 ---
 title: "Revival"
 url: /omaha/revival/
-shop: Gebrauchtwaren
+shop: charity
 ---

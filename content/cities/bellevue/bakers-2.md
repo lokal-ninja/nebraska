@@ -1,5 +1,5 @@
 ---
 title: "Bakers"
 url: /bellevue/bakers-2/
-shop: Supermarkt
+shop: supermarket
 ---

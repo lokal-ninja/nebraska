@@ -1,5 +1,5 @@
 ---
 title: "Mane Street Salon"
 url: /wisner/mane-street-salon/
-shop: Friseur
+shop: hairdresser
 ---

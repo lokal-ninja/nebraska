@@ -1,5 +1,5 @@
 ---
 title: "Acura of Omaha"
 url: /omaha/acura-of-omaha/
-shop: Autohaus
+shop: car
 ---

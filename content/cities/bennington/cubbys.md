@@ -1,5 +1,5 @@
 ---
 title: "Cubby's"
 url: /bennington/cubbys/
-shop: Lebensmittel
+shop: convenience
 ---

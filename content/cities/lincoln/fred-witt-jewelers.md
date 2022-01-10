@@ -1,5 +1,5 @@
 ---
 title: "Fred Witt Jewelers"
 url: /lincoln/fred-witt-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

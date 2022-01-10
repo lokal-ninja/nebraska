@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /lincoln/t-mobile-2/
-shop: Handy
+shop: mobile phone
 ---

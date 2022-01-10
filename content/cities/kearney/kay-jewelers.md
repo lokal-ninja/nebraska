@@ -1,5 +1,5 @@
 ---
 title: "Kay Jewelers"
 url: /kearney/kay-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

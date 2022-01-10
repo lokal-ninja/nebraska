@@ -1,5 +1,5 @@
 ---
 title: "Grover Street Wash House"
 url: /omaha/grover-street-wash-house/
-shop: Wäscherei
+shop: laundry
 ---

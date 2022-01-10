@@ -1,5 +1,5 @@
 ---
 title: "Crafted by Jennifer"
 url: /waverly/crafted-by-jennifer/
-shop: Basteln
+shop: craft
 ---

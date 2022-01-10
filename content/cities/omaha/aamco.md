@@ -1,5 +1,5 @@
 ---
 title: "AAMCO"
 url: /omaha/aamco/
-shop: Autowerkstatt
+shop: car repair
 ---

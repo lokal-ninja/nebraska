@@ -1,5 +1,5 @@
 ---
 title: "Brakes Plus"
 url: /omaha/brakes-plus-3/
-shop: Autowerkstatt
+shop: car repair
 ---

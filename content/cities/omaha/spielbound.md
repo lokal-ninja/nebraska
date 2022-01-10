@@ -1,5 +1,5 @@
 ---
 title: "Spielbound"
 url: /omaha/spielbound/
-shop: Spiele
+shop: games
 ---
