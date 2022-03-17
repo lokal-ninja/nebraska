@@ -7,5 +7,5 @@ city: Omaha
 street: "Center Street"
 housenumber: 5328
 phone: "+1-402-504-4600"
-opening_hours: "Monday-Saturday 24 hours"
+opening_hours: "Mo-Sa 00:00-24:00"
 website: "https://www.dinosstorage.com/"
