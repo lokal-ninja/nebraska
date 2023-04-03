@@ -1,6 +1,6 @@
 ---
 title: Papillion
 url: /papillion/
-latitude: 41.155
-longitude: -96.043
+latitude: 41.169
+longitude: -96.022
 ---
