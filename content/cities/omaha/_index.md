@@ -1,6 +1,6 @@
 ---
 title: Omaha
 url: /omaha/
-latitude: 41.248
-longitude: -96.075
+latitude: 41.265
+longitude: -96.155
 ---
