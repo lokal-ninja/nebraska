@@ -1,6 +1,6 @@
 ---
 title: Ogallala
 url: /ogallala/
-latitude: 41.114
-longitude: -101.718
+latitude: 41.111
+longitude: -101.717
 ---
