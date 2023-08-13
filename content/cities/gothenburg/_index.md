@@ -1,6 +1,6 @@
 ---
 title: Gothenburg
 url: /gothenburg/
-latitude: 40.92
-longitude: -100.16
+latitude: 40.924
+longitude: -100.166
 ---
