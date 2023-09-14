@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
-url: /omaha/goodwill/
+url: /omaha/goodwill-r-plaza/
 shop: charity
 ---

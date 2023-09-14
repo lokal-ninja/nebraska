@@ -1,5 +1,5 @@
 ---
 title: "U-Stop"
-url: /lincoln/u-stop/
+url: /lincoln/u-stop-o-street/
 shop: convenience
 ---

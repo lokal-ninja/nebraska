@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
-url: /omaha/great-clips/
+url: /omaha/great-clips-welch-plaza/
 shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "O'Reilly Auto Parts"
-url: /omaha/oreilly-auto-parts/
+url: /omaha/oreilly-auto-parts-q-street/
 shop: car parts
 ---

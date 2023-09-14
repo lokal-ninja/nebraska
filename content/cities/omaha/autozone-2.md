@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /omaha/autozone/
+url: /omaha/autozone-2/
 shop: car parts
 ---

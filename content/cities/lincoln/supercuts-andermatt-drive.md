@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
-url: /lincoln/supercuts/
+url: /lincoln/supercuts-andermatt-drive/
 shop: hairdresser
 ---

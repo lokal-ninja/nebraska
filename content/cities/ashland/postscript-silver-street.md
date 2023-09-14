@@ -1,5 +1,5 @@
 ---
 title: "Postscript"
-url: /ashland/postscript/
+url: /ashland/postscript-silver-street/
 shop: general
 ---

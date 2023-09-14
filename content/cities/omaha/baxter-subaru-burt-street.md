@@ -1,5 +1,5 @@
 ---
 title: "Baxter Subaru"
-url: /omaha/baxter-subaru/
+url: /omaha/baxter-subaru-burt-street/
 shop: car
 ---

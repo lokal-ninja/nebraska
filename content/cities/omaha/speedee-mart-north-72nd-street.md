@@ -1,5 +1,5 @@
 ---
 title: "Speedee Mart"
-url: /omaha/speedee-mart/
+url: /omaha/speedee-mart-north-72nd-street/
 shop: convenience
 ---

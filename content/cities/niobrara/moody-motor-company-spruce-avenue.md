@@ -1,5 +1,5 @@
 ---
 title: "Moody Motor Company"
-url: /niobrara/moody-motor-company/
+url: /niobrara/moody-motor-company-spruce-avenue/
 shop: car
 ---

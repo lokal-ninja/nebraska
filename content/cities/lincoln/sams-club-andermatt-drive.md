@@ -1,5 +1,5 @@
 ---
 title: "Sam's Club"
-url: /lincoln/sams-club/
+url: /lincoln/sams-club-andermatt-drive/
 shop: wholesale
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /omaha/aldi/
+url: /omaha/aldi-south-72nd-street/
 shop: supermarket
 ---
