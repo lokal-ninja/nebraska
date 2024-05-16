@@ -1,5 +1,5 @@
 ---
-title: "Westlake Ace Hardware"
+title: "WestLake Ace Hardware"
 url: /lincoln/westlake-ace-hardware-north-70th-street/
-shop: hardware
+shop: doityourself
 ---
