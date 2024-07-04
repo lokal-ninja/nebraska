@@ -1,6 +1,6 @@
 ---
 title: Hastings
 url: /hastings/
-latitude: 40.618
-longitude: -98.386
+latitude: 40.616
+longitude: -98.38
 ---
