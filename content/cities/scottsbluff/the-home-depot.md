@@ -1,5 +1,5 @@
 ---
 title: "The Home Depot"
-url: /omaha/the-home-depot-n-72nd-street/
+url: /scottsbluff/the-home-depot/
 shop: doityourself
 ---
