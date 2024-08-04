@@ -1,5 +1,5 @@
 ---
 title: "Sam's Club"
-url: /lincoln/sams-club-north-27th-street/
+url: /omaha/sams-club/
 shop: wholesale
 ---
