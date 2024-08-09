@@ -1,5 +1,5 @@
 ---
 title: "Walmart Neighborhood Market"
-url: /omaha/walmart-neighborhood-market-south-167th-street/
+url: /omaha/walmart-neighborhood-market-north-90th-street/
 shop: supermarket
 ---
