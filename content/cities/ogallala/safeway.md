@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /ogallala/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

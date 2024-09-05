@@ -1,5 +1,5 @@
 ---
 title: "A-C Laundry"
 url: /grand-island/a-c-laundry/
-shop: laundry
+shop: Wäscherei
 ---

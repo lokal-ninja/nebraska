@@ -1,5 +1,5 @@
 ---
 title: "Carpetland"
 url: /omaha/carpetland/
-shop: doityourself
+shop: Baumarkt
 ---

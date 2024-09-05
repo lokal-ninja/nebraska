@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /omaha/great-clips-underwood-avenue/
-shop: hairdresser
+shop: Friseur
 ---

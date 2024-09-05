@@ -1,5 +1,5 @@
 ---
 title: "The Buzz"
 url: /emerson/the-buzz/
-shop: apiary
+shop: Imkerei
 ---

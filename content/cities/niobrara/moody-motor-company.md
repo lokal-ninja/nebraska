@@ -1,5 +1,5 @@
 ---
 title: "Moody Motor Company"
 url: /niobrara/moody-motor-company/
-shop: car repair
+shop: Autowerkstatt
 ---

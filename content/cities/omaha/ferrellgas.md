@@ -1,5 +1,5 @@
 ---
 title: "Ferrellgas"
 url: /omaha/ferrellgas/
-shop: gas
+shop: Gasflaschen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "KOA"
 url: /gothenburg/koa/
-shop: convenience
+shop: Lebensmittel
 ---

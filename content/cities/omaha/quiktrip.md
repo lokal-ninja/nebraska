@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /omaha/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

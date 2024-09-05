@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /omaha/michaels/
-shop: craft
+shop: Basteln
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /omaha/menards-north-120th-street/
-shop: doityourself
+shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Max Tan"
 url: /lincoln/max-tan-old-cheney-road/
-shop: beauty
+shop: Kosmetik
 ---

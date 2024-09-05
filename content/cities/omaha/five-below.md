@@ -1,5 +1,5 @@
 ---
 title: "Five Below"
 url: /omaha/five-below/
-shop: variety store
+shop: Kramladen
 ---

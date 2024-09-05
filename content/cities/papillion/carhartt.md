@@ -1,5 +1,5 @@
 ---
 title: "Carhartt"
 url: /papillion/carhartt/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Backstage"
 url: /lincoln/backstage/
-shop: beauty
+shop: Kosmetik
 ---

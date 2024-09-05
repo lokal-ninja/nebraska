@@ -1,5 +1,5 @@
 ---
 title: "Rexius Nutrition"
 url: /lincoln/rexius-nutrition/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /papillon/firestone/
-shop: car repair
+shop: Autowerkstatt
 ---

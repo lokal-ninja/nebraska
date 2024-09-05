@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /omaha/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

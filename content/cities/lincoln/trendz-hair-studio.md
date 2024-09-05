@@ -1,5 +1,5 @@
 ---
 title: "Trendz Hair Studio"
 url: /lincoln/trendz-hair-studio/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hair Central Salon"
 url: /bellevue/hair-central-salon/
-shop: hairdresser
+shop: Friseur
 ---

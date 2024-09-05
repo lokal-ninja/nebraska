@@ -1,5 +1,5 @@
 ---
 title: "Kure CBD"
 url: /papillon/kure-cbd/
-shop: tobacco
+shop: Tabak
 ---

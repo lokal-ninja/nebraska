@@ -1,5 +1,5 @@
 ---
 title: "Denver Auto Sales"
 url: /lincoln/denver-auto-sales/
-shop: car
+shop: Autohaus
 ---

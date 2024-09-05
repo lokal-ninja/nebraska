@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /papillion/petsmart/
-shop: pet
+shop: Tiere
 ---

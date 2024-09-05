@@ -1,5 +1,5 @@
 ---
 title: "Sleep Number"
 url: /lincoln/sleep-number/
-shop: bed
+shop: Betten
 ---

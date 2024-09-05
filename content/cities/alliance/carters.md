@@ -1,5 +1,5 @@
 ---
 title: "Carters"
 url: /alliance/carters/
-shop: hardware
+shop: Eisenwaren
 ---

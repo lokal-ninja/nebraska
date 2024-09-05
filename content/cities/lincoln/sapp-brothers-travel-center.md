@@ -1,5 +1,5 @@
 ---
 title: "Sapp Brothers Travel Center"
 url: /lincoln/sapp-brothers-travel-center/
-shop: convenience
+shop: Lebensmittel
 ---

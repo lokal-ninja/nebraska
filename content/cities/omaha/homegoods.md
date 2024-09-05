@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /omaha/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

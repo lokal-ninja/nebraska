@@ -1,5 +1,5 @@
 ---
 title: "Asian Market"
 url: /omaha/asian-market/
-shop: supermarket
+shop: Supermarkt
 ---
