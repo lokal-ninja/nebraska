@@ -1,5 +1,5 @@
 ---
 title: "Cape Truck Toppers"
 url: /lincoln/cape-truck-toppers/
-shop: Autoteile
+shop: car parts
 ---

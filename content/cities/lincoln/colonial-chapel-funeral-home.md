@@ -1,5 +1,5 @@
 ---
 title: "Colonial Chapel Funeral Home"
 url: /lincoln/colonial-chapel-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

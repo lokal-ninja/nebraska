@@ -1,5 +1,5 @@
 ---
 title: "Honda of Lincoln"
 url: /lincoln/honda-of-lincoln/
-shop: Autohaus
+shop: car
 ---

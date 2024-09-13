@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /papillion/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

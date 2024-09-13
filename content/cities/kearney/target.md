@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /kearney/target/
-shop: Warenhaus
+shop: department store
 ---

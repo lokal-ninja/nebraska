@@ -1,5 +1,5 @@
 ---
 title: "TsaoCha"
 url: /bellevue/tsaocha/
-shop: Tee
+shop: tea
 ---

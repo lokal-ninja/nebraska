@@ -1,5 +1,5 @@
 ---
 title: "Westroads Mall"
 url: /omaha/westroads-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

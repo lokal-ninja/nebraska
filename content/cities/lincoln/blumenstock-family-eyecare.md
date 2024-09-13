@@ -1,5 +1,5 @@
 ---
 title: "Blumenstock Family Eyecare"
 url: /lincoln/blumenstock-family-eyecare/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Big G Ace"
 url: /hastings/big-g-ace/
-shop: Baumarkt
+shop: doityourself
 ---

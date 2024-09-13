@@ -1,5 +1,5 @@
 ---
 title: "Eagle Grocery"
 url: /eagle/eagle-grocery/
-shop: Supermarkt
+shop: supermarket
 ---

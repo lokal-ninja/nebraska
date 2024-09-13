@@ -1,5 +1,5 @@
 ---
 title: "Custom Electronics"
 url: /omaha/custom-electronics/
-shop: Elektronik
+shop: electronics
 ---

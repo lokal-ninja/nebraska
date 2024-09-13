@@ -1,5 +1,5 @@
 ---
 title: "Platte Valley Auto"
 url: /kearney/platte-valley-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

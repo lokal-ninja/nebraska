@@ -1,5 +1,5 @@
 ---
 title: "Isabella's Treasures"
 url: /omaha/isabellas-treasures/
-shop: Dorfladen
+shop: general
 ---

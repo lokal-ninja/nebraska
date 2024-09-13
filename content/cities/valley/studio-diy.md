@@ -1,5 +1,5 @@
 ---
 title: "Studio DIY"
 url: /valley/studio-diy/
-shop: Baumarkt
+shop: doityourself
 ---

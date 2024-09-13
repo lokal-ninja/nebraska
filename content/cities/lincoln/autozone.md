@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /lincoln/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nissan of Omaha"
 url: /omaha/nissan-of-omaha/
-shop: Autohaus
+shop: car
 ---

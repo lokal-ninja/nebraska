@@ -1,5 +1,5 @@
 ---
 title: "Art City Barbershop"
 url: /crete/art-city-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /omaha/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

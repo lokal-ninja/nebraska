@@ -1,5 +1,5 @@
 ---
 title: "SalonCentric"
 url: /north-platte/saloncentric/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trop Artic Lube Center"
 url: /lincoln/trop-artic-lube-center/
-shop: Autowerkstatt
+shop: car repair
 ---

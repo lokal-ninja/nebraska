@@ -1,5 +1,5 @@
 ---
 title: "Mercedes-Benz"
 url: /omaha/mercedes-benz/
-shop: Autohaus
+shop: car
 ---

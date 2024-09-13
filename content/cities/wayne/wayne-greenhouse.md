@@ -1,5 +1,5 @@
 ---
 title: "Wayne Greenhouse"
 url: /wayne/wayne-greenhouse/
-shop: Blumen
+shop: florist
 ---

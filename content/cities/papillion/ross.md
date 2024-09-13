@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /papillion/ross/
-shop: Warenhaus
+shop: department store
 ---

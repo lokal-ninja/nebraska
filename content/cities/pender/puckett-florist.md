@@ -1,5 +1,5 @@
 ---
 title: "Puckett Florist"
 url: /pender/puckett-florist/
-shop: Blumen
+shop: florist
 ---

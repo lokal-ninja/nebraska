@@ -1,5 +1,5 @@
 ---
 title: "Nemnich Automotive"
 url: /gering/nemnich-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

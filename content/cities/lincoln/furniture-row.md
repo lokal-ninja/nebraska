@@ -1,5 +1,5 @@
 ---
 title: "Furniture Row"
 url: /lincoln/furniture-row/
-shop: Möbel
+shop: furniture
 ---

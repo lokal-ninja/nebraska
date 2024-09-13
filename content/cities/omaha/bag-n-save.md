@@ -1,5 +1,5 @@
 ---
 title: "Bag 'N Save"
 url: /omaha/bag-n-save/
-shop: Supermarkt
+shop: supermarket
 ---

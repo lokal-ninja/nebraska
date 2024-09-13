@@ -1,5 +1,5 @@
 ---
 title: "Monkey Wrench Cycles"
 url: /lincoln/monkey-wrench-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

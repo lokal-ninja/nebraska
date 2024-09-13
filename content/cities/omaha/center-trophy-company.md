@@ -1,5 +1,5 @@
 ---
 title: "Center Trophy Company"
 url: /omaha/center-trophy-company/
-shop: Dorfladen
+shop: general
 ---

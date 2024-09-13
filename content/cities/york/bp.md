@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /york/bp/
-shop: Lebensmittel
+shop: convenience
 ---

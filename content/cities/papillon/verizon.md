@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /papillon/verizon/
-shop: Handy
+shop: mobile phone
 ---

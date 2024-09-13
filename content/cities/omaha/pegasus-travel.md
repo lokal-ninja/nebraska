@@ -1,5 +1,5 @@
 ---
 title: "Pegasus Travel"
 url: /omaha/pegasus-travel/
-shop: Reisebüro
+shop: travel agency
 ---

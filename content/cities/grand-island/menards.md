@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /grand-island/menards/
-shop: Baumarkt
+shop: doityourself
 ---

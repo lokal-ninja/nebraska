@@ -1,5 +1,5 @@
 ---
 title: "Ron's Auto"
 url: /papillion/rons-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

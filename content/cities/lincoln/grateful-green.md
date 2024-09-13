@@ -1,5 +1,5 @@
 ---
 title: "Grateful Green"
 url: /lincoln/grateful-green/
-shop: Hanf
+shop: cannabis
 ---

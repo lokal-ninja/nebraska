@@ -1,5 +1,5 @@
 ---
 title: "Economy Food Store"
 url: /stromsburg/economy-food-store/
-shop: Supermarkt
+shop: supermarket
 ---

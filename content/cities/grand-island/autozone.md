@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /grand-island/autozone/
-shop: Autoteile
+shop: car parts
 ---

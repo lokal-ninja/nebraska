@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /omaha/dollar-general-park-drive/
-shop: Kramladen
+shop: variety store
 ---

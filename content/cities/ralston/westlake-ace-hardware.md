@@ -1,5 +1,5 @@
 ---
 title: "Westlake Ace Hardware"
 url: /ralston/westlake-ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kaiser Tire"
 url: /alliance/kaiser-tire/
-shop: Reifen
+shop: tyres
 ---

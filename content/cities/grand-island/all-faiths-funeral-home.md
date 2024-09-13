@@ -1,5 +1,5 @@
 ---
 title: "All Faiths Funeral Home"
 url: /grand-island/all-faiths-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

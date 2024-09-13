@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /scottsbluff/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

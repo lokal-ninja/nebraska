@@ -1,5 +1,5 @@
 ---
 title: "U-Stop"
 url: /lincoln/u-stop-cornhusker-highway/
-shop: Lebensmittel
+shop: convenience
 ---

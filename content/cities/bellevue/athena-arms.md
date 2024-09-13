@@ -1,5 +1,5 @@
 ---
 title: "Athena Arms"
 url: /bellevue/athena-arms/
-shop: Waffen
+shop: weapons
 ---

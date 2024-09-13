@@ -1,5 +1,5 @@
 ---
 title: "Family Fare"
 url: /ashland/family-fare/
-shop: Supermarkt
+shop: supermarket
 ---

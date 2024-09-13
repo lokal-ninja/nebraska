@@ -1,5 +1,5 @@
 ---
 title: "Trends Hair Studio"
 url: /north-platte/trends-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Commercial Plastics"
 url: /waverly/commercial-plastics/
-shop: Kramladen
+shop: variety store
 ---

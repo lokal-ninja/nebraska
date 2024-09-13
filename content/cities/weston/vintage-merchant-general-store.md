@@ -1,5 +1,5 @@
 ---
 title: "Vintage Merchant General Store"
 url: /weston/vintage-merchant-general-store/
-shop: Antiquitäten
+shop: antiques
 ---

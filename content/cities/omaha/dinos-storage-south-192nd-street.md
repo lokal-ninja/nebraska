@@ -1,5 +1,5 @@
 ---
 title: "Dino's Storage"
 url: /omaha/dinos-storage-south-192nd-street/
-shop: Mieten
+shop: storage rental
 ---

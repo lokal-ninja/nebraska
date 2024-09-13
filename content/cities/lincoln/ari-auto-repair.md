@@ -1,5 +1,5 @@
 ---
 title: "Ari Auto Repair"
 url: /lincoln/ari-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

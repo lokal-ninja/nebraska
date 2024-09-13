@@ -1,5 +1,5 @@
 ---
 title: "Maurices"
 url: /omaha/maurices-k-plaza/
-shop: Kleidung
+shop: clothes
 ---

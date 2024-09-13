@@ -1,5 +1,5 @@
 ---
 title: "Well Grounded"
 url: /omaha/well-grounded/
-shop: Kaffee
+shop: coffee
 ---

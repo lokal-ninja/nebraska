@@ -1,5 +1,5 @@
 ---
 title: "AeroCare"
 url: /lincoln/aerocare/
-shop: Allgemein
+shop: shop
 ---

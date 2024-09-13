@@ -1,5 +1,5 @@
 ---
 title: "Community Bike Project Omaha"
 url: /omaha/community-bike-project-omaha/
-shop: Fahrrad
+shop: bicycle
 ---

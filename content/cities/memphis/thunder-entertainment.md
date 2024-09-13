@@ -1,5 +1,5 @@
 ---
 title: "Thunder Entertainment"
 url: /memphis/thunder-entertainment/
-shop: Musik
+shop: music
 ---

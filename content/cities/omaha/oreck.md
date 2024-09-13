@@ -1,5 +1,5 @@
 ---
 title: "Oreck"
 url: /omaha/oreck/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

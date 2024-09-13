@@ -1,5 +1,5 @@
 ---
 title: "Chaney Furniture"
 url: /falls-city/chaney-furniture/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /south-sioux-city/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

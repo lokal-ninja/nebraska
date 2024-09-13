@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /lexington/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

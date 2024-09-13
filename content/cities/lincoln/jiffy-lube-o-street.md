@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
 url: /lincoln/jiffy-lube-o-street/
-shop: Autowerkstatt
+shop: car repair
 ---

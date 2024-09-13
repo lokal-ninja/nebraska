@@ -1,5 +1,5 @@
 ---
 title: "Viaero Wireless"
 url: /north-platte/viaero-wireless/
-shop: Handy
+shop: mobile phone
 ---

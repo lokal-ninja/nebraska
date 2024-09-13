@@ -1,5 +1,5 @@
 ---
 title: "The Still"
 url: /lincoln/the-still/
-shop: Spirituosen
+shop: alcohol
 ---

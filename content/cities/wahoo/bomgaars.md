@@ -1,5 +1,5 @@
 ---
 title: "Bomgaars"
 url: /wahoo/bomgaars/
-shop: Dorfladen
+shop: general
 ---

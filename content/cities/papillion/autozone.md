@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /papillion/autozone/
-shop: Autoteile
+shop: car parts
 ---

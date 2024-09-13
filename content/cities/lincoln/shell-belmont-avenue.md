@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /lincoln/shell-belmont-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

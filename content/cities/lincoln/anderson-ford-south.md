@@ -1,5 +1,5 @@
 ---
 title: "Anderson Ford South"
 url: /lincoln/anderson-ford-south/
-shop: Autohaus
+shop: car
 ---

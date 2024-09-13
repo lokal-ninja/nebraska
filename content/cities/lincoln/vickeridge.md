@@ -1,5 +1,5 @@
 ---
 title: "Vickeridge"
 url: /lincoln/vickeridge/
-shop: Kleidung
+shop: clothes
 ---

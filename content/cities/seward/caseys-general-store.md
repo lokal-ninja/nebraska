@@ -1,5 +1,5 @@
 ---
 title: "Casey's General Store"
 url: /seward/caseys-general-store/
-shop: Lebensmittel
+shop: convenience
 ---

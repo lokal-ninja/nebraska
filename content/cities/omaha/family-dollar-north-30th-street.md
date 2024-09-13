@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /omaha/family-dollar-north-30th-street/
-shop: Kramladen
+shop: variety store
 ---

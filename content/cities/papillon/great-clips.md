@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /papillon/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

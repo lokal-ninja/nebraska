@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /papillion/burlington/
-shop: Warenhaus
+shop: department store
 ---

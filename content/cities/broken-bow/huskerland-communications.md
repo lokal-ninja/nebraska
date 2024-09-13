@@ -1,5 +1,5 @@
 ---
 title: "Huskerland Communications"
 url: /broken-bow/huskerland-communications/
-shop: Handy
+shop: mobile phone
 ---

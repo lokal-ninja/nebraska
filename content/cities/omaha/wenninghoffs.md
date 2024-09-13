@@ -1,5 +1,5 @@
 ---
 title: "Wenninghoff's"
 url: /omaha/wenninghoffs/
-shop: Hofladen
+shop: farm
 ---

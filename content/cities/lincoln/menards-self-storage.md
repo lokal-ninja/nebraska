@@ -1,5 +1,5 @@
 ---
 title: "Menards Self Storage"
 url: /lincoln/menards-self-storage/
-shop: Mieten
+shop: storage rental
 ---

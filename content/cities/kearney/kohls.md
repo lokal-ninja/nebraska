@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /kearney/kohls/
-shop: Warenhaus
+shop: department store
 ---

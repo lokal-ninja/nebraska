@@ -1,5 +1,5 @@
 ---
 title: "Crumbl Cookies"
 url: /lincoln/crumbl-cookies/
-shop: Konditorei
+shop: pastry
 ---

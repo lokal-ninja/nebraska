@@ -1,5 +1,5 @@
 ---
 title: "Gary's Autobody Shop"
 url: /cedar-bluffs/garys-autobody-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

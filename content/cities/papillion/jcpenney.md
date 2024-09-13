@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /papillion/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Schmit Automotive Inc"
 url: /waverly/schmit-automotive-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Moksha"
 url: /omaha/moksha/
-shop: Andenken
+shop: gift
 ---

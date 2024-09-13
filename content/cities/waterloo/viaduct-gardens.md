@@ -1,5 +1,5 @@
 ---
 title: "Viaduct Gardens"
 url: /waterloo/viaduct-gardens/
-shop: Garten-Center
+shop: garden centre
 ---

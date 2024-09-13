@@ -1,5 +1,5 @@
 ---
 title: "Moser Funeral Chapel"
 url: /cedar-bluffs/moser-funeral-chapel/
-shop: Bestattungen
+shop: funeral directors
 ---

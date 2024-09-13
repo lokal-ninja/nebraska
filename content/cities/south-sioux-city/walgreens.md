@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /south-sioux-city/walgreens/
-shop: Drogerie
+shop: chemist
 ---

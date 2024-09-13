@@ -1,5 +1,5 @@
 ---
 title: "Inter-Tech Collision Center"
 url: /omaha/inter-tech-collision-center/
-shop: Autowerkstatt
+shop: car repair
 ---

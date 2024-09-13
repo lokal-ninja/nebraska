@@ -1,5 +1,5 @@
 ---
 title: "Diamond Master Jewelers"
 url: /lincoln/diamond-master-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

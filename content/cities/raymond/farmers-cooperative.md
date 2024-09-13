@@ -1,5 +1,5 @@
 ---
 title: "Farmers Cooperative"
 url: /raymond/farmers-cooperative/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

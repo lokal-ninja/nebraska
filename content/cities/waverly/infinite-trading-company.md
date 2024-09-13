@@ -1,5 +1,5 @@
 ---
 title: "Infinite Trading Company"
 url: /waverly/infinite-trading-company/
-shop: Dorfladen
+shop: general
 ---

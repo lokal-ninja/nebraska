@@ -1,5 +1,5 @@
 ---
 title: "Bodhi Imports"
 url: /lincoln/bodhi-imports/
-shop: Andenken
+shop: gift
 ---

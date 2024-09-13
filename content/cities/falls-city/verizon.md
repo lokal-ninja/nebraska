@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /falls-city/verizon/
-shop: Handy
+shop: mobile phone
 ---

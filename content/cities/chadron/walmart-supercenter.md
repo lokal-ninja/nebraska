@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /chadron/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

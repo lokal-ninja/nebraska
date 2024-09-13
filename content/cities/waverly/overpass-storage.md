@@ -1,5 +1,5 @@
 ---
 title: "Overpass Storage"
 url: /waverly/overpass-storage/
-shop: Mieten
+shop: storage rental
 ---

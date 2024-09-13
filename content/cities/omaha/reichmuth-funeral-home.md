@@ -1,5 +1,5 @@
 ---
 title: "Reichmuth Funeral Home"
 url: /omaha/reichmuth-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

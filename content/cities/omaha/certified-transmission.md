@@ -1,5 +1,5 @@
 ---
 title: "Certified Transmission"
 url: /omaha/certified-transmission/
-shop: Autowerkstatt
+shop: car repair
 ---

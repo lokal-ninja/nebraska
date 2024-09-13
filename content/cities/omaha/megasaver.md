@@ -1,5 +1,5 @@
 ---
 title: "MegaSaver"
 url: /omaha/megasaver/
-shop: Lebensmittel
+shop: convenience
 ---

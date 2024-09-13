@@ -1,5 +1,5 @@
 ---
 title: "ALLO Communications"
 url: /gering/allo-communications/
-shop: Handy
+shop: mobile phone
 ---

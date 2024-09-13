@@ -1,5 +1,5 @@
 ---
 title: "Bomgaars"
 url: /ogallala/bomgaars/
-shop: Baumarkt
+shop: doityourself
 ---

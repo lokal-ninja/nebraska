@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /lincoln/office-depot-north-50th-street/
-shop: Schreibwaren
+shop: office supplies
 ---

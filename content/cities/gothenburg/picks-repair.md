@@ -1,5 +1,5 @@
 ---
 title: "Pick's Repair"
 url: /gothenburg/picks-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

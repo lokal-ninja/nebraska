@@ -1,5 +1,5 @@
 ---
 title: "Dillon's Service Center"
 url: /lincoln/dillons-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

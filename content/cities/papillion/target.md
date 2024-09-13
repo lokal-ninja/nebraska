@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /papillion/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SuperTarget"
 url: /omaha/supertarget/
-shop: Warenhaus
+shop: department store
 ---

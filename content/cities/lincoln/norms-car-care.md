@@ -1,5 +1,5 @@
 ---
 title: "Norm's Car Care"
 url: /lincoln/norms-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

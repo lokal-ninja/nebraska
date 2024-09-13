@@ -1,5 +1,5 @@
 ---
 title: "Papillion Barbers"
 url: /papillion/papillion-barbers/
-shop: Friseur
+shop: hairdresser
 ---

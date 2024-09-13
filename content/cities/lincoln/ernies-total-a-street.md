@@ -1,5 +1,5 @@
 ---
 title: "Ernie's Total"
 url: /lincoln/ernies-total-a-street/
-shop: Autowerkstatt
+shop: car repair
 ---

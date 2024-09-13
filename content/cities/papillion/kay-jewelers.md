@@ -1,5 +1,5 @@
 ---
 title: "Kay Jewelers"
 url: /papillion/kay-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

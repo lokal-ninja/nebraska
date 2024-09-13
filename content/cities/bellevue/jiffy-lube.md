@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
 url: /bellevue/jiffy-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

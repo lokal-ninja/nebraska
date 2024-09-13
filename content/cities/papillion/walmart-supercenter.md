@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /papillion/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

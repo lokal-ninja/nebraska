@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /omaha/target-k-plaza/
-shop: Warenhaus
+shop: department store
 ---

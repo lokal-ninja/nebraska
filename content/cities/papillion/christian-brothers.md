@@ -1,5 +1,5 @@
 ---
 title: "Christian Brothers"
 url: /papillion/christian-brothers/
-shop: Autowerkstatt
+shop: car repair
 ---
