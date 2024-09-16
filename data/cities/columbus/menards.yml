@@ -4,8 +4,8 @@ latitude: 41.44033
 longitude: -97.32411
 postcode: "68601"
 city: Columbus
-street: "East 24th Street"
-housenumber: 340
+street: East 24th Street
+housenumber: "340"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3251"
+website: https://www.menards.com/store-details/store.html?store=3251

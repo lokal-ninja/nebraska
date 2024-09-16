@@ -2,10 +2,10 @@ id: 3825984535
 type: node
 latitude: 40.43746
 longitude: -99.38257
-postcode: "68949-2645"
+postcode: 68949-2645
 city: Holdrege
-street: "West 4th Avenue"
-housenumber: 205
-phone: "+1 308-995-4091"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 12:00-16:00"
+street: West 4th Avenue
+housenumber: "205"
+phone: +1 308-995-4091
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 12:00-16:00
 website: ""

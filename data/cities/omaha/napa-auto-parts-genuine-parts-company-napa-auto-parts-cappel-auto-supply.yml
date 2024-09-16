@@ -4,8 +4,9 @@ latitude: 41.22748
 longitude: -96.00832
 postcode: "68106"
 city: Omaha
-street: "Grover Street"
-housenumber: 6160
-phone: "+1-402-554-4500;+1-402-554-4581"
-opening_hours: "Mo-Fr 07:30-19:00;Sa 08:00-17:00;Su 09:00-16:00;Mo-Fr 07:30-17:30;Su 08:00-16:00"
-website: "https://www.napaonline.com/"
+street: Grover Street
+housenumber: "6160"
+phone: +1-402-554-4500;+1-402-554-4581
+opening_hours: Mo-Fr 07:30-19:00;Sa 08:00-17:00;Su 09:00-16:00;Mo-Fr 07:30-17:30;Su
+    08:00-16:00
+website: https://www.napaonline.com/

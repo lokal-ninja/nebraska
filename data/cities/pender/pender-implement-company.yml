@@ -4,8 +4,8 @@ latitude: 42.10707
 longitude: -96.70626
 postcode: "68047"
 city: Pender
-street: "4th Street"
-housenumber: 705
-phone: "+1 402 385 2211"
-opening_hours: "Mo-Fr 07:30-17:00"
-website: "http://www.penderimpl.com/"
+street: 4th Street
+housenumber: "705"
+phone: +1 402 385 2211
+opening_hours: Mo-Fr 07:30-17:00
+website: http://www.penderimpl.com/

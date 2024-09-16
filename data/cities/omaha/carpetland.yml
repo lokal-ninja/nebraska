@@ -1,11 +1,11 @@
 id: 411212970
-type: way
+type: node
 latitude: 41.29094
 longitude: -96.08537
 postcode: "68164"
 city: Omaha
-street: "Emmet Street"
-housenumber: 11010
-phone: "402-614-6666"
+street: Emmet Street
+housenumber: "11010"
+phone: 402-614-6666
 opening_hours: ""
-website: "https://www.carpetlandonline.com/"
+website: https://www.carpetlandonline.com/

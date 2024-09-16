@@ -1,11 +1,11 @@
 id: 492832513
-type: way
+type: node
 latitude: 40.71454
 longitude: -99.06376
 postcode: "68847"
 city: Kearney
-street: "East 39th Street"
-housenumber: 1316
+street: East 39th Street
+housenumber: "1316"
 phone: ""
 opening_hours: ""
 website: ""

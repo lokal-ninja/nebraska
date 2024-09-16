@@ -1,11 +1,11 @@
 id: 731196894
-type: way
+type: node
 latitude: 40.8516
 longitude: -96.68115
 postcode: "68521"
 city: Lincoln
-street: "North 27th Street"
-housenumber: 3910
-phone: "+1-402-465-4663"
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://lincolngoodwill.org/"
+street: North 27th Street
+housenumber: "3910"
+phone: +1-402-465-4663
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-18:00
+website: https://lincolngoodwill.org/

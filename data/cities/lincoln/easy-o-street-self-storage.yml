@@ -1,11 +1,11 @@
 id: 200862371
-type: way
+type: node
 latitude: 40.81079
 longitude: -96.53983
 postcode: "68520"
 city: Lincoln
-street: "South 134th Street"
-housenumber: 280
+street: South 134th Street
+housenumber: "280"
 phone: ""
 opening_hours: ""
 website: ""

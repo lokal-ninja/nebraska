@@ -1,11 +1,11 @@
 id: 186981775
-type: way
+type: node
 latitude: 41.26551
 longitude: -95.99005
 postcode: "68132"
 city: Omaha
-street: "Underwood Avenue"
-housenumber: 4926
-phone: "+1-402-553-4442"
+street: Underwood Avenue
+housenumber: "4926"
+phone: +1-402-553-4442
 opening_hours: ""
 website: ""

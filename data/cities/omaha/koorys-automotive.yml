@@ -1,11 +1,11 @@
 id: 817897800
-type: way
+type: node
 latitude: 41.25249
 longitude: -95.99192
 postcode: "68106"
 city: Omaha
-street: "Leavenworth Street"
-housenumber: 5052
-phone: "+1-402-551-5414"
+street: Leavenworth Street
+housenumber: "5052"
+phone: +1-402-551-5414
 opening_hours: ""
-website: "http://www.carrepairomaha.com/"
+website: http://www.carrepairomaha.com/

@@ -1,11 +1,11 @@
 id: 805819191
-type: way
+type: node
 latitude: 41.22773
 longitude: -96.00523
 postcode: "68106"
 city: Omaha
-street: "Grover Street"
-housenumber: 6016
-phone: "+1-402-554-1965"
-opening_hours: "Mo-Fr 08:30-16:00"
+street: Grover Street
+housenumber: "6016"
+phone: +1-402-554-1965
+opening_hours: Mo-Fr 08:30-16:00
 website: ""

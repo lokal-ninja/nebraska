@@ -1,11 +1,11 @@
 id: 184333374
-type: way
+type: node
 latitude: 41.26215
 longitude: -96.08861
 postcode: "68154"
 city: Omaha
-street: "Chicago Circle"
-housenumber: 11212
-phone: "402-333-5570"
+street: Chicago Circle
+housenumber: "11212"
+phone: 402-333-5570
 opening_hours: ""
-website: "https://www.parable.com/"
+website: https://www.parable.com/

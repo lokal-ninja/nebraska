@@ -1,11 +1,11 @@
 id: 823650508
-type: way
+type: node
 latitude: 41.20601
 longitude: -96.09925
 postcode: "68137"
 city: Omaha
-street: "South 118th Street"
-housenumber: 5120
+street: South 118th Street
+housenumber: "5120"
 phone: ""
 opening_hours: ""
-website: "https://speedeemart.com"
+website: https://speedeemart.com

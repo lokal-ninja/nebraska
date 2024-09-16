@@ -1,11 +1,11 @@
 id: 197885933
-type: way
+type: node
 latitude: 40.84133
 longitude: -96.74052
 postcode: "68521"
 city: Lincoln
-street: "Northwest 12th Street"
-housenumber: 2925
-phone: "+1-402-475-1888"
+street: Northwest 12th Street
+housenumber: "2925"
+phone: +1-402-475-1888
 opening_hours: ""
-website: "https://u-stop.com"
+website: https://u-stop.com

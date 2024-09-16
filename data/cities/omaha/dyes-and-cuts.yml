@@ -1,11 +1,11 @@
 id: 685020048
-type: way
+type: node
 latitude: 41.33588
 longitude: -95.9601
 postcode: "68112"
 city: Omaha
-street: "North 30th Street"
-housenumber: 8319
+street: North 30th Street
+housenumber: "8319"
 phone: ""
 opening_hours: ""
 website: ""

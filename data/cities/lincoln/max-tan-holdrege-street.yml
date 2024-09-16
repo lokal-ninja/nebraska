@@ -4,8 +4,8 @@ latitude: 40.82852
 longitude: -96.60858
 postcode: "68505"
 city: Lincoln
-street: "Holdrege Street"
-housenumber: 8222
-phone: "+1-402-489-0043"
-opening_hours: "Mo-Th 09:00-21:00; Fr 09:00-19:00; Sa 10:00-17:00; Su 12:00-17:00"
-website: "https://www.maxtan.net/"
+street: Holdrege Street
+housenumber: "8222"
+phone: +1-402-489-0043
+opening_hours: Mo-Th 09:00-21:00; Fr 09:00-19:00; Sa 10:00-17:00; Su 12:00-17:00
+website: https://www.maxtan.net/

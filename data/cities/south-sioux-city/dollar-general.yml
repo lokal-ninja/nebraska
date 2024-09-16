@@ -1,11 +1,11 @@
 id: 411567394
-type: way
+type: node
 latitude: 42.46823
 longitude: -96.41346
 postcode: "68776"
 city: South Sioux City
-street: "Dakota Avenue"
-housenumber: 2222
+street: Dakota Avenue
+housenumber: "2222"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ne/south-sioux-city/9152"
+website: https://www.dollargeneral.com/store-directory/ne/south-sioux-city/9152

@@ -1,11 +1,11 @@
 id: 1134214922
-type: way
+type: node
 latitude: 40.83875
 longitude: -96.70371
 postcode: "68521"
 city: Lincoln
-street: "Nance Avenue"
-housenumber: 1210
+street: Nance Avenue
+housenumber: "1210"
 phone: ""
 opening_hours: ""
 website: ""

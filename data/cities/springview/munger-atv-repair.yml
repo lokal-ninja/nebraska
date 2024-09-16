@@ -1,11 +1,11 @@
 id: 711160572
-type: way
+type: node
 latitude: 42.82185
 longitude: -99.74828
 postcode: "68778"
 city: Springview
-street: "South Main Street"
-housenumber: 221
-phone: "+1-402-382-5514"
+street: South Main Street
+housenumber: "221"
+phone: +1-402-382-5514
 opening_hours: ""
 website: ""

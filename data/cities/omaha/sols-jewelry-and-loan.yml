@@ -1,11 +1,11 @@
 id: 574226267
-type: way
+type: node
 latitude: 41.26423
 longitude: -95.93696
 postcode: "68102"
 city: Omaha
-street: "North 16th Street"
-housenumber: 514
-phone: "+1 402 342 7764"
+street: North 16th Street
+housenumber: "514"
+phone: +1 402 342 7764
 opening_hours: ""
-website: "https://solsomaha.com"
+website: https://solsomaha.com

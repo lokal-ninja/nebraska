@@ -1,11 +1,11 @@
 id: 1134214921
-type: way
+type: node
 latitude: 40.83813
 longitude: -96.7047
 postcode: "68521"
 city: Lincoln
-street: "North 12th Street"
-housenumber: 2511
+street: North 12th Street
+housenumber: "2511"
 phone: ""
 opening_hours: ""
 website: ""

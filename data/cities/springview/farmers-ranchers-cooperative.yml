@@ -1,11 +1,11 @@
 id: 711160559
-type: way
+type: node
 latitude: 42.83337
 longitude: -99.74805
 postcode: "68778"
 city: Springview
-street: "US Hwy 183"
-housenumber: 89764
-phone: "+1-402-497-2020"
+street: US Hwy 183
+housenumber: "89764"
+phone: +1-402-497-2020
 opening_hours: ""
-website: "https://www.frcoop.com/"
+website: https://www.frcoop.com/

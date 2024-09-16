@@ -1,11 +1,11 @@
 id: 323097081
-type: way
+type: node
 latitude: 41.2044
 longitude: -96.08102
 postcode: ""
 city: Omaha
-street: "South 108th Street"
-housenumber: 5321
-phone: "+1-402-592-6550"
+street: South 108th Street
+housenumber: "5321"
+phone: +1-402-592-6550
 opening_hours: ""
-website: "https://store.vioc.com/ne/omaha/oil-change-ar2203.html"
+website: https://store.vioc.com/ne/omaha/oil-change-ar2203.html

@@ -1,11 +1,11 @@
 id: 241026352
-type: way
+type: node
 latitude: 41.21916
 longitude: -96.13792
 postcode: "68137"
 city: Omaha
-street: "South 144th Street"
-housenumber: 4111
+street: South 144th Street
+housenumber: "4111"
 phone: ""
 opening_hours: ""
 website: ""

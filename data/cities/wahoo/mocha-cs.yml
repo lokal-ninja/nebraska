@@ -1,11 +1,11 @@
 id: 804442892
-type: way
+type: node
 latitude: 41.20966
 longitude: -96.61899
 postcode: "68066"
 city: Wahoo
-street: "North Linden Street"
-housenumber: 441
-phone: "+1-402-443-6565"
-opening_hours: "Mo-Fr 06:30-16:00; Sa 07:30-14:00"
+street: North Linden Street
+housenumber: "441"
+phone: +1-402-443-6565
+opening_hours: Mo-Fr 06:30-16:00; Sa 07:30-14:00
 website: ""

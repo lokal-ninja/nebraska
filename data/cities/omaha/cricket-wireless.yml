@@ -1,11 +1,11 @@
 id: 700256047
-type: way
+type: node
 latitude: 41.31807
 longitude: -95.9568
 postcode: "68111"
 city: Omaha
-street: "North 30th Street"
-housenumber: 6524
+street: North 30th Street
+housenumber: "6524"
 phone: "+14024552164"
 opening_hours: ""
-website: "https://www.cricketwireless.com/stores/ll/US/NE/Omaha/6524-N-30th-St"
+website: https://www.cricketwireless.com/stores/ll/US/NE/Omaha/6524-N-30th-St

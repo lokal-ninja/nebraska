@@ -4,8 +4,8 @@ latitude: 41.32042
 longitude: -96.04688
 postcode: "68122"
 city: Omaha
-street: "North 87th Circle"
-housenumber: 6726
-phone: "+1-402-884-6006"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-13:00; Su 06:00-22:00"
-website: "https://www.armorstorages.com/"
+street: North 87th Circle
+housenumber: "6726"
+phone: +1-402-884-6006
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-13:00; Su 06:00-22:00
+website: https://www.armorstorages.com/

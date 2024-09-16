@@ -1,11 +1,11 @@
 id: 178086893
-type: way
+type: node
 latitude: 41.26432
 longitude: -96.15539
 postcode: "68154"
 city: Omaha
-street: "North 155th Plaza"
-housenumber: 505
+street: North 155th Plaza
+housenumber: "505"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

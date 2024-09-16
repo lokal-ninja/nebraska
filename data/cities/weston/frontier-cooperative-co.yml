@@ -1,11 +1,11 @@
 id: 804456637
-type: way
+type: node
 latitude: 41.19297
 longitude: -96.7433
 postcode: "68070"
 city: Weston
-street: "North Pine Street"
-housenumber: 335
-phone: "+1-402-642-5861"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.frontiercooperative.com/"
+street: North Pine Street
+housenumber: "335"
+phone: +1-402-642-5861
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.frontiercooperative.com/

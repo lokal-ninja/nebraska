@@ -1,11 +1,11 @@
 id: 189973231
-type: way
+type: node
 latitude: 41.17759
 longitude: -95.92525
 postcode: "68005"
 city: Bellevue
-street: "Fort Crook Road North"
-housenumber: 1001
+street: Fort Crook Road North
+housenumber: "1001"
 phone: ""
 opening_hours: ""
 website: ""

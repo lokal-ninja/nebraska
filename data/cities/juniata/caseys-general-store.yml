@@ -1,11 +1,11 @@
 id: 983076608
-type: way
+type: node
 latitude: 40.59663
 longitude: -98.50691
 postcode: "68955"
 city: Juniata
-street: "West 14th Street"
-housenumber: 107
+street: West 14th Street
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

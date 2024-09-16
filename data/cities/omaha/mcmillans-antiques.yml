@@ -1,11 +1,11 @@
 id: 817894018
-type: way
+type: node
 latitude: 41.25267
 longitude: -95.99053
 postcode: "68106"
 city: Omaha
-street: "Leavenworth Street"
-housenumber: 5002
+street: Leavenworth Street
+housenumber: "5002"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 703245004
-type: way
+type: node
 latitude: 40.81272
 longitude: -96.65434
 postcode: "68510"
 city: Lincoln
-street: "South 48th Street"
-housenumber: 135
-phone: "+1-402-858-1619"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.t-mobile.com/"
+street: South 48th Street
+housenumber: "135"
+phone: +1-402-858-1619
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.t-mobile.com/

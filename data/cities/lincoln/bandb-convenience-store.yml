@@ -1,11 +1,11 @@
 id: 197483314
-type: way
+type: node
 latitude: 40.86995
 longitude: -96.67158
 postcode: "68504"
 city: Lincoln
-street: "North 33rd Circle"
-housenumber: 5700
+street: North 33rd Circle
+housenumber: "5700"
 phone: ""
 opening_hours: ""
 website: ""

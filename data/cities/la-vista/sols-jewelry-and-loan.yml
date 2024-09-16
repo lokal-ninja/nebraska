@@ -1,11 +1,11 @@
 id: 881099176
-type: way
+type: node
 latitude: 41.18011
 longitude: -96.04394
 postcode: "68128"
 city: La Vista
-street: "South 84th Street"
-housenumber: 7926
+street: South 84th Street
+housenumber: "7926"
 phone: ""
 opening_hours: ""
 website: ""

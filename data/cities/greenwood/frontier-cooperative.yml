@@ -1,11 +1,11 @@
 id: 478353286
-type: way
+type: node
 latitude: 40.96026
 longitude: -96.44322
 postcode: "68366"
 city: Greenwood
-street: "Highway 6"
-housenumber: 426
-phone: "+1-402-381-8170"
+street: Highway 6
+housenumber: "426"
+phone: +1-402-381-8170
 opening_hours: ""
 website: ""

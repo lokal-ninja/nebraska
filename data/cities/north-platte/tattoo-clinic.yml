@@ -1,11 +1,11 @@
 id: 490931084
-type: way
+type: node
 latitude: 41.12477
 longitude: -100.76371
 postcode: "69101"
 city: North Platte
-street: "South Jeffers Street"
-housenumber: 1015
-phone: "+1-308-534-5346"
+street: South Jeffers Street
+housenumber: "1015"
+phone: +1-308-534-5346
 opening_hours: ""
 website: ""

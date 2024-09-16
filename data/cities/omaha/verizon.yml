@@ -4,8 +4,8 @@ latitude: 41.2575
 longitude: -95.96075
 postcode: "68131"
 city: Omaha
-street: "Farnam Street"
-housenumber: 3201
-phone: "+1 402 991 1180"
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-17:00"
+street: Farnam Street
+housenumber: "3201"
+phone: +1 402 991 1180
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-17:00
 website: ""

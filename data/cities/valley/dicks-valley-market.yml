@@ -1,11 +1,11 @@
 id: 677428969
-type: way
+type: node
 latitude: 41.31251
 longitude: -96.34628
 postcode: "68064"
 city: Valley
-street: "East Gardiner Street"
-housenumber: 111
+street: East Gardiner Street
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

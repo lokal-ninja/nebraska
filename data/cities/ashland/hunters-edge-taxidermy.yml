@@ -1,11 +1,11 @@
 id: 804786926
-type: way
+type: node
 latitude: 41.04487
 longitude: -96.38878
 postcode: "68003"
 city: Ashland
-street: "Ashland Road"
-housenumber: 509
+street: Ashland Road
+housenumber: "509"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00"
+opening_hours: Mo-Fr 08:30-18:00
 website: ""

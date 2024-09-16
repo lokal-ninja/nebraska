@@ -4,8 +4,8 @@ latitude: 41.29448
 longitude: -96.12682
 postcode: "68164"
 city: Omaha
-street: "West Maple Road"
-housenumber: 13660
-phone: "+1 402-492-2729"
-opening_hours: "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ne/omaha/pet-supplies-omaha-ne-287.html"
+street: West Maple Road
+housenumber: "13660"
+phone: +1 402-492-2729
+opening_hours: Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/ne/omaha/pet-supplies-omaha-ne-287.html

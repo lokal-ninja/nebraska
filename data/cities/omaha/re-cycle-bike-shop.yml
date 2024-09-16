@@ -1,11 +1,11 @@
 id: 329505260
-type: way
+type: node
 latitude: 41.24135
 longitude: -95.98458
 postcode: "68106"
 city: Omaha
-street: "Center Street"
-housenumber: 4701
-phone: "+1-402-344-7253"
-opening_hours: "Tu-Sa 10:00-17:00"
-website: "recyclebikeshop.net"
+street: Center Street
+housenumber: "4701"
+phone: +1-402-344-7253
+opening_hours: Tu-Sa 10:00-17:00
+website: recyclebikeshop.net

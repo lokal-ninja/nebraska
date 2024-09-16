@@ -4,8 +4,8 @@ latitude: 40.79915
 longitude: -96.67165
 postcode: "68510"
 city: Lincoln
-street: "A Street"
-housenumber: 3400
-phone: "+1 402 475 8814"
-opening_hours: "Mo-Th 08:00-23:00; Fr-Sa 08:00-24:00; Su 09:00-21:00"
-website: "https://www.moransliquor.com/"
+street: A Street
+housenumber: "3400"
+phone: +1 402 475 8814
+opening_hours: Mo-Th 08:00-23:00; Fr-Sa 08:00-24:00; Su 09:00-21:00
+website: https://www.moransliquor.com/

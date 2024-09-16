@@ -1,11 +1,11 @@
 id: 806248570
-type: way
+type: node
 latitude: 41.23761
 longitude: -96.00389
 postcode: "68106"
 city: Omaha
-street: "Center Street"
-housenumber: 5815
-phone: "+1-402-556-6708"
-opening_hours: "Mo-Fr 07:00-18:00"
-website: "https://www.omahacarcare.com/"
+street: Center Street
+housenumber: "5815"
+phone: +1-402-556-6708
+opening_hours: Mo-Fr 07:00-18:00
+website: https://www.omahacarcare.com/

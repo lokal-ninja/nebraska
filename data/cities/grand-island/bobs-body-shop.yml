@@ -1,11 +1,11 @@
 id: 549579181
-type: way
+type: node
 latitude: 40.91921
 longitude: -98.36061
 postcode: "68803"
 city: Grand Island
-street: "West Old Lincoln Highway"
-housenumber: 1902
+street: West Old Lincoln Highway
+housenumber: "1902"
 phone: ""
 opening_hours: ""
 website: ""

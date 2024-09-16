@@ -1,11 +1,11 @@
 id: 549241222
-type: way
+type: node
 latitude: 40.92091
 longitude: -98.3488
 postcode: "68801"
 city: Grand Island
-street: "West 2nd Street"
-housenumber: 915
+street: West 2nd Street
+housenumber: "915"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1183503450
-type: way
+type: node
 latitude: 40.85733
 longitude: -96.67647
 postcode: "68504"
 city: Lincoln
-street: "Superior Street"
-housenumber: 3200
-phone: "+1-402-477-5151"
+street: Superior Street
+housenumber: "3200"
+phone: +1-402-477-5151
 opening_hours: ""
-website: "https://www.ferrellgas.com/locations/detail/lincoln-ne/293020/"
+website: https://www.ferrellgas.com/locations/detail/lincoln-ne/293020/

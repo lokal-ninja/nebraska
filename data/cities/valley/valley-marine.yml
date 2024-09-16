@@ -1,11 +1,11 @@
 id: 407651918
-type: way
+type: node
 latitude: 41.31444
 longitude: -96.32959
 postcode: "68064"
 city: Valley
-street: "Twin Rivers Circle"
-housenumber: 6301
+street: Twin Rivers Circle
+housenumber: "6301"
 phone: ""
 opening_hours: ""
-website: "https://valleymarine.net/"
+website: https://valleymarine.net/

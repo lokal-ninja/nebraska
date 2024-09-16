@@ -1,11 +1,11 @@
 id: 1291645391
-type: way
+type: node
 latitude: 41.12355
 longitude: -100.7636
 postcode: "69101"
 city: North Platte
-street: "East William Avenue"
-housenumber: 102
+street: East William Avenue
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

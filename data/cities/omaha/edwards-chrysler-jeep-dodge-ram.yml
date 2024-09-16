@@ -1,11 +1,11 @@
 id: 179060844
-type: way
+type: node
 latitude: 41.26646
 longitude: -96.19495
 postcode: "68118"
 city: Omaha
-street: "Burt Street"
-housenumber: 17950
+street: Burt Street
+housenumber: "17950"
 phone: ""
 opening_hours: ""
 website: ""

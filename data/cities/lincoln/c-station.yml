@@ -1,11 +1,11 @@
 id: 209105022
-type: way
+type: node
 latitude: 40.73819
 longitude: -96.70082
 postcode: "68512"
 city: Lincoln
-street: "Pine Lake Road"
-housenumber: 1401
-phone: "402-420-2232"
+street: Pine Lake Road
+housenumber: "1401"
+phone: 402-420-2232
 opening_hours: ""
-website: "https://www.facebook.com/cstationcstores"
+website: https://www.facebook.com/cstationcstores

@@ -4,8 +4,8 @@ latitude: 40.85497
 longitude: -96.68174
 postcode: "68521"
 city: Lincoln
-street: "King Lane"
-housenumber: 2711
-phone: "+1-402-512-0700"
-opening_hours: "Mo-Su 10:00-22:00"
-website: "https://www.t-mobile.com/"
+street: King Lane
+housenumber: "2711"
+phone: +1-402-512-0700
+opening_hours: Mo-Su 10:00-22:00
+website: https://www.t-mobile.com/

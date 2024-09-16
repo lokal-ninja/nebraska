@@ -1,11 +1,11 @@
 id: 806248575
-type: way
+type: node
 latitude: 41.23839
 longitude: -95.9998
 postcode: "68106"
 city: Omaha
-street: "Center Street"
-housenumber: 5542
-phone: "+1-800-747-1438"
+street: Center Street
+housenumber: "5542"
+phone: +1-800-747-1438
 opening_hours: ""
-website: "https://ai-engines.com/"
+website: https://ai-engines.com/

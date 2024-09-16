@@ -1,11 +1,11 @@
 id: 1204343041
-type: way
+type: node
 latitude: 40.82611
 longitude: -96.70665
 postcode: "68508"
 city: Lincoln
-street: "North 10th Street"
-housenumber: 1200
-phone: "+1-402-477-9870"
-opening_hours: "Mo-Su 05:00-24:00"
-website: "https://www.caseys.com/general-store/ne-lincoln/1200-n-10th-st/2974"
+street: North 10th Street
+housenumber: "1200"
+phone: +1-402-477-9870
+opening_hours: Mo-Su 05:00-24:00
+website: https://www.caseys.com/general-store/ne-lincoln/1200-n-10th-st/2974

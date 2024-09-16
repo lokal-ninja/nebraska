@@ -1,11 +1,11 @@
 id: 70484204
-type: way
+type: node
 latitude: 40.8205
 longitude: -96.68216
 postcode: "68503"
 city: Lincoln
-street: "North 27th Street"
-housenumber: 720
-phone: "+1-402-475-2453"
-opening_hours: "Mo-Sa 09:00-19:00; Su 12:00-17:00"
-website: "https://www.cycleworksusa.com/"
+street: North 27th Street
+housenumber: "720"
+phone: +1-402-475-2453
+opening_hours: Mo-Sa 09:00-19:00; Su 12:00-17:00
+website: https://www.cycleworksusa.com/

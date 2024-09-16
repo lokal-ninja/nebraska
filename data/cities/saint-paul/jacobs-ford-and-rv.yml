@@ -4,8 +4,8 @@ latitude: 41.20894
 longitude: -98.45183
 postcode: "68873"
 city: Saint Paul
-street: "2nd Street"
-housenumber: 303
+street: 2nd Street
+housenumber: "303"
 phone: ""
-opening_hours: "08:00-18:00"
-website: "https://www.jacobsford.com/"
+opening_hours: 08:00-18:00
+website: https://www.jacobsford.com/

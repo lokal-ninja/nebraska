@@ -1,11 +1,11 @@
 id: 227119509
-type: way
+type: node
 latitude: 40.80507
 longitude: -96.70309
 postcode: "68508"
 city: Lincoln
-street: "F Street"
-housenumber: 1240
-phone: "+1 402-477-2100"
-opening_hours: "Mo-Th 07:30-17:00; Fr 07:30-12:00"
+street: F Street
+housenumber: "1240"
+phone: +1 402-477-2100
+opening_hours: Mo-Th 07:30-17:00; Fr 07:30-12:00
 website: ""

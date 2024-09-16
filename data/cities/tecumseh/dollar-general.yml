@@ -1,11 +1,11 @@
 id: 1231039727
-type: way
+type: node
 latitude: 40.36873
 longitude: -96.19383
 postcode: "68450"
 city: Tecumseh
-street: "Broadway Street"
-housenumber: 462
+street: Broadway Street
+housenumber: "462"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ne/tecumseh/8711"
+website: https://www.dollargeneral.com/store-directory/ne/tecumseh/8711

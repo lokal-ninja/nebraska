@@ -1,11 +1,11 @@
 id: 685764151
-type: way
+type: node
 latitude: 41.32057
 longitude: -96.06427
 postcode: "68122"
 city: Omaha
-street: "Ida Street"
-housenumber: 9630
-phone: "+1 402-571-2575"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Ida Street
+housenumber: "9630"
+phone: +1 402-571-2575
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

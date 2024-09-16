@@ -1,11 +1,11 @@
 id: 1013986986
-type: way
+type: node
 latitude: 40.74055
 longitude: -96.67712
 postcode: "68516"
 city: Lincoln
-street: "Pine Lake Road"
-housenumber: 2943
-phone: "402-420-2020"
+street: Pine Lake Road
+housenumber: "2943"
+phone: 402-420-2020
 opening_hours: ""
 website: ""

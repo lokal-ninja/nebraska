@@ -2,10 +2,10 @@ id: 8372279090
 type: node
 latitude: 42.01986
 longitude: -97.42945
-postcode: "68701-7328"
+postcode: 68701-7328
 city: Norfolk
-street: "Market Lane"
-housenumber: 1510
-phone: "+1 402-379-9933"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/norfolk/856"
+street: Market Lane
+housenumber: "1510"
+phone: +1 402-379-9933
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/norfolk/856

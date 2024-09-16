@@ -1,11 +1,11 @@
 id: 318784656
-type: way
+type: node
 latitude: 41.13842
 longitude: -95.9583
 postcode: "68123"
 city: Bellevue
-street: "Samson Way"
-housenumber: 3003
+street: Samson Way
+housenumber: "3003"
 phone: "+14023560702"
 opening_hours: ""
 website: ""

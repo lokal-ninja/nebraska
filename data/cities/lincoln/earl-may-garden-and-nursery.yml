@@ -1,11 +1,11 @@
 id: 544610833
-type: way
+type: node
 latitude: 40.81282
 longitude: -96.62241
 postcode: "68510"
 city: Lincoln
-street: "Wedgewood Drive"
-housenumber: 100
+street: Wedgewood Drive
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

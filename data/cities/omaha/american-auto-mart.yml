@@ -1,11 +1,11 @@
 id: 806248589
-type: way
+type: node
 latitude: 41.24125
 longitude: -95.99562
 postcode: "68106"
 city: Omaha
-street: "Center Street"
-housenumber: 5202
+street: Center Street
+housenumber: "5202"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 536210467
-type: way
+type: node
 latitude: 41.11245
 longitude: -101.71042
 postcode: "69153"
 city: Ogallala
-street: "Road East 85"
-housenumber: 200
+street: Road East 85
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

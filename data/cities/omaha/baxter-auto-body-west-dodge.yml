@@ -1,11 +1,11 @@
 id: 489259597
-type: way
+type: node
 latitude: 41.2674
 longitude: -96.18971
 postcode: "68118"
 city: Omaha
-street: "North 177th Circle"
-housenumber: 
+street: North 177th Circle
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

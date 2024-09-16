@@ -1,11 +1,11 @@
 id: 1231050494
-type: way
+type: node
 latitude: 40.81822
 longitude: -96.65151
 postcode: "68504"
 city: Lincoln
-street: "North 48th Street"
-housenumber: 400
+street: North 48th Street
+housenumber: "400"
 phone: ""
 opening_hours: ""
 website: ""

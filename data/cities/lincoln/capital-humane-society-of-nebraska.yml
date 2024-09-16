@@ -1,11 +1,11 @@
 id: 1167201655
-type: way
+type: node
 latitude: 40.78939
 longitude: -96.71476
 postcode: "68502"
 city: Lincoln
-street: "Park Boulevard"
-housenumber: 2320
+street: Park Boulevard
+housenumber: "2320"
 phone: ""
 opening_hours: ""
 website: ""

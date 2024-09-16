@@ -1,11 +1,11 @@
 id: 180666932
-type: way
+type: node
 latitude: 41.23362
 longitude: -96.20064
 postcode: "68130"
 city: Omaha
-street: "Wright Street"
-housenumber: 18280
+street: Wright Street
+housenumber: "18280"
 phone: ""
 opening_hours: ""
 website: ""

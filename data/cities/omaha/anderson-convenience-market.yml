@@ -1,11 +1,11 @@
 id: 180644999
-type: way
+type: node
 latitude: 41.23703
 longitude: -96.19546
 postcode: "68130"
 city: Omaha
-street: "Arbor Street"
-housenumber: 17915
+street: Arbor Street
+housenumber: "17915"
 phone: ""
 opening_hours: ""
 website: ""

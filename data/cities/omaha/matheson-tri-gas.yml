@@ -1,11 +1,11 @@
 id: 1052501496
-type: way
+type: node
 latitude: 41.2211
 longitude: -96.05231
 postcode: "68127"
 city: Omaha
-street: "F Street"
-housenumber: 8990
+street: F Street
+housenumber: "8990"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.mathesongas.com/stores/matheson-omaha/"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.mathesongas.com/stores/matheson-omaha/

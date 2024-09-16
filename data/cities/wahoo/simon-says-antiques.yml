@@ -1,11 +1,11 @@
 id: 804442891
-type: way
+type: node
 latitude: 41.20991
 longitude: -96.61912
 postcode: "68066"
 city: Wahoo
-street: "East 5th Street"
-housenumber: 153
-phone: "+1-402-277-5389"
+street: East 5th Street
+housenumber: "153"
+phone: +1-402-277-5389
 opening_hours: ""
 website: ""

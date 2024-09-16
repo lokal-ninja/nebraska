@@ -1,11 +1,11 @@
 id: 338221876
-type: way
+type: node
 latitude: 40.81304
 longitude: -96.62412
 postcode: "68510"
 city: Lincoln
-street: "O Street"
-housenumber: 7045
-phone: "+1 402 484 8222"
-opening_hours: "24/7"
-website: "https://www.walgreens.com/locator/walgreens-7045+o+st-lincoln-ne-68510/id=3182"
+street: O Street
+housenumber: "7045"
+phone: +1 402 484 8222
+opening_hours: 24/7
+website: https://www.walgreens.com/locator/walgreens-7045+o+st-lincoln-ne-68510/id=3182

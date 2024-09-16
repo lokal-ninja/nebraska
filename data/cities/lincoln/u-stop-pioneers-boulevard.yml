@@ -1,11 +1,11 @@
 id: 201228352
-type: way
+type: node
 latitude: 40.77037
 longitude: -96.62304
 postcode: "68506"
 city: Lincoln
-street: "Pioneers Boulevard"
-housenumber: 7100
-phone: "+1-402-489-6631"
+street: Pioneers Boulevard
+housenumber: "7100"
+phone: +1-402-489-6631
 opening_hours: ""
-website: "https://u-stop.com"
+website: https://u-stop.com

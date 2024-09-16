@@ -1,11 +1,11 @@
 id: 1238776424
-type: way
+type: node
 latitude: 41.17599
 longitude: -96.06612
 postcode: "68128"
 city: La Vista
-street: "Giles Road"
-housenumber: 9849
+street: Giles Road
+housenumber: "9849"
 phone: "+14025057379"
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 804442897
-type: way
+type: node
 latitude: 41.20469
 longitude: -96.62242
 postcode: "68066"
 city: Wahoo
-street: "West A Street"
-housenumber: 257
-phone: "+1-800-677-1180"
-opening_hours: "Mo, Tu, Th 08:00-19:00; We, Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://www.siddillon.com/"
+street: West A Street
+housenumber: "257"
+phone: +1-800-677-1180
+opening_hours: Mo, Tu, Th 08:00-19:00; We, Fr 08:00-18:00; Sa 08:00-17:00
+website: https://www.siddillon.com/

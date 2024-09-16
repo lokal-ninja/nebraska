@@ -1,11 +1,11 @@
 id: 403406067
-type: way
+type: node
 latitude: 40.19802
 longitude: -100.65273
 postcode: "69001"
 city: McCook
-street: "West B Street"
-housenumber: 1902
-phone: "+1 308-345-1800"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/790/mccook-ne/whats-new"
+street: West B Street
+housenumber: "1902"
+phone: +1 308-345-1800
+opening_hours: 24/7
+website: https://www.walmart.com/store/790/mccook-ne/whats-new

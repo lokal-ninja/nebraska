@@ -1,11 +1,11 @@
 id: 805819177
-type: way
+type: node
 latitude: 41.22503
 longitude: -96.01349
 postcode: "68106"
 city: Omaha
-street: "South 66th Street"
-housenumber: 3717
-phone: "+1-402-391-5315"
+street: South 66th Street
+housenumber: "3717"
+phone: +1-402-391-5315
 opening_hours: ""
 website: ""

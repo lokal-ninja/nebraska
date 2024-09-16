@@ -1,11 +1,11 @@
 id: 194740357
-type: way
+type: node
 latitude: 40.90127
 longitude: -96.54454
 postcode: "68462"
 city: Waverly
-street: "Dovers Street"
-housenumber: 13151
-phone: "+1-402-786-1000"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://smartchicken.com"
+street: Dovers Street
+housenumber: "13151"
+phone: +1-402-786-1000
+opening_hours: Mo-Fr 08:00-17:00
+website: https://smartchicken.com

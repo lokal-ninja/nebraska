@@ -1,11 +1,11 @@
 id: 1291604609
-type: way
+type: node
 latitude: 41.12188
 longitude: -100.75898
 postcode: "69101"
 city: North Platte
-street: "South Cottonwood Street"
-housenumber: 1320
+street: South Cottonwood Street
+housenumber: "1320"
 phone: ""
 opening_hours: ""
 website: ""

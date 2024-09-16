@@ -1,11 +1,11 @@
 id: 1182322173
-type: way
+type: node
 latitude: 41.19016
 longitude: -96.04171
 postcode: "68128"
 city: La Vista
-street: "South 84th Street"
-housenumber: 6901
+street: South 84th Street
+housenumber: "6901"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/la-vista-ne-pharmacies/6901-south-84th-st-la-vista-ne-68128/storeid=2741"
+website: https://www.cvs.com/store-locator/la-vista-ne-pharmacies/6901-south-84th-st-la-vista-ne-68128/storeid=2741

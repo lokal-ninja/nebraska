@@ -1,11 +1,11 @@
 id: 1238773081
-type: way
+type: node
 latitude: 41.1383
 longitude: -96.02314
 postcode: "68046"
 city: Papillon
-street: "Papillion Drive"
-housenumber: 1419
+street: Papillion Drive
+housenumber: "1419"
 phone: ""
 opening_hours: ""
 website: ""

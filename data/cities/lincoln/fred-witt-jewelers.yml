@@ -4,8 +4,8 @@ latitude: 40.81403
 longitude: -96.70385
 postcode: "68508"
 city: Lincoln
-street: "North 12th Street"
-housenumber: 100
+street: North 12th Street
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-12:00
 website: ""

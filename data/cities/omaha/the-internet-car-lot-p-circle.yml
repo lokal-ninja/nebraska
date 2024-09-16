@@ -1,11 +1,11 @@
 id: 1253676847
-type: way
+type: node
 latitude: 41.20819
 longitude: -96.02349
 postcode: "68117"
 city: Omaha
-street: "P Circle"
-housenumber: 7150
-phone: "+1-402-991-1112"
-opening_hours: "Mo-Sa 09:00-18:00"
+street: P Circle
+housenumber: "7150"
+phone: +1-402-991-1112
+opening_hours: Mo-Sa 09:00-18:00
 website: ""

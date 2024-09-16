@@ -1,11 +1,11 @@
 id: 992029311
-type: way
+type: node
 latitude: 40.84315
 longitude: -96.67343
 postcode: "68504"
 city: Lincoln
-street: "Cornhusker Highway"
-housenumber: 3244
-phone: "+1-402-467-4344"
-opening_hours: "24/7"
-website: "https://u-stop.com/"
+street: Cornhusker Highway
+housenumber: "3244"
+phone: +1-402-467-4344
+opening_hours: 24/7
+website: https://u-stop.com/

@@ -1,11 +1,11 @@
 id: 805174273
-type: way
+type: node
 latitude: 40.91807
 longitude: -96.52816
 postcode: "68462"
 city: Waverly
-street: "North 142nd Street"
-housenumber: 10830
-phone: "+1-800-420-5872"
+street: North 142nd Street
+housenumber: "10830"
+phone: +1-800-420-5872
 opening_hours: ""
-website: "https://duallyparts.com/"
+website: https://duallyparts.com/

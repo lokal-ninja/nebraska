@@ -1,11 +1,11 @@
 id: 992029316
-type: way
+type: node
 latitude: 40.84304
 longitude: -96.67557
 postcode: "68504"
 city: Lincoln
-street: "Cornhusker Highway"
-housenumber: 3010
-phone: "+1-402-347-29252"
-opening_hours: "Mo-Su 10:00-19:00"
-website: "https://www.greenwoodautodeals.com"
+street: Cornhusker Highway
+housenumber: "3010"
+phone: +1-402-347-29252
+opening_hours: Mo-Su 10:00-19:00
+website: https://www.greenwoodautodeals.com

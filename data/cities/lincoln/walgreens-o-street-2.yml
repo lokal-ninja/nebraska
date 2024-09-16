@@ -1,11 +1,11 @@
 id: 703381325
-type: way
+type: node
 latitude: 40.81345
 longitude: -96.70226
 postcode: "68508"
 city: Lincoln
-street: "O Street"
-housenumber: 1301
+street: O Street
+housenumber: "1301"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1301+o+st-lincoln-ne-68508/id=541"
+website: https://www.walgreens.com/locator/walgreens-1301+o+st-lincoln-ne-68508/id=541

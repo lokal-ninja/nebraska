@@ -1,11 +1,11 @@
 id: 887557289
-type: way
+type: node
 latitude: 41.08715
 longitude: -96.1372
 postcode: "68059"
 city: Springfield
-street: "Park Drive"
-housenumber: 810
-phone: "+1 402-625-7600"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 12:00-17:00"
+street: Park Drive
+housenumber: "810"
+phone: +1 402-625-7600
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 12:00-17:00
 website: ""

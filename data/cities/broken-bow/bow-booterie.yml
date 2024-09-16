@@ -1,11 +1,11 @@
 id: 238706715
-type: way
+type: node
 latitude: 41.40202
 longitude: -99.63926
 postcode: ""
 city: Broken Bow
-street: "South 8th Avenue"
-housenumber: 440
-phone: "(308) 872-5621"
+street: South 8th Avenue
+housenumber: "440"
+phone: (308) 872-5621
 opening_hours: ""
-website: "https://www.bowbooterie.com/"
+website: https://www.bowbooterie.com/

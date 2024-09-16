@@ -1,11 +1,11 @@
 id: 475974867
-type: way
+type: node
 latitude: 40.6991
 longitude: -99.11849
 postcode: "68845"
 city: Kearney
-street: "West 24th Street"
-housenumber: 2730
+street: West 24th Street
+housenumber: "2730"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/ne/kearney/17189"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/ne/kearney/17189

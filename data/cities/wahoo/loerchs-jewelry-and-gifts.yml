@@ -1,11 +1,11 @@
 id: 803907601
-type: way
+type: node
 latitude: 41.2109
 longitude: -96.62049
 postcode: "68066"
 city: Wahoo
-street: "West 6th Street"
-housenumber: 123
-phone: "+1-402-443-3680"
-opening_hours: "Mo-Fr 09:30-17:00, Sa 09:30-12:00"
+street: West 6th Street
+housenumber: "123"
+phone: +1-402-443-3680
+opening_hours: Mo-Fr 09:30-17:00, Sa 09:30-12:00
 website: ""

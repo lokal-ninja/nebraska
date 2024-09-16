@@ -1,11 +1,11 @@
 id: 256899927
-type: way
+type: node
 latitude: 40.78399
 longitude: -96.62589
 postcode: "68506"
 city: Lincoln
-street: "South 70th Street"
-housenumber: 2825
+street: South 70th Street
+housenumber: "2825"
 phone: ""
 opening_hours: ""
 website: ""

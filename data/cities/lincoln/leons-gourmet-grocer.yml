@@ -1,11 +1,11 @@
 id: 214503460
-type: way
+type: node
 latitude: 40.79067
 longitude: -96.67536
 postcode: "68502"
 city: Lincoln
-street: "Winthrop Road"
-housenumber: 2200
-phone: "402-488-2307"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-18:30"
-website: "https://www.leonsgourmetgrocer.com/"
+street: Winthrop Road
+housenumber: "2200"
+phone: 402-488-2307
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-18:30
+website: https://www.leonsgourmetgrocer.com/

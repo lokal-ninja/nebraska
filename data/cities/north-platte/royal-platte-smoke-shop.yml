@@ -1,11 +1,11 @@
 id: 1291604633
-type: way
+type: node
 latitude: 41.12205
 longitude: -100.75754
 postcode: "69101"
 city: North Platte
-street: "East Francis Street"
-housenumber: 600
+street: East Francis Street
+housenumber: "600"
 phone: ""
 opening_hours: ""
 website: ""

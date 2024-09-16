@@ -1,11 +1,11 @@
 id: 90780404
-type: way
+type: node
 latitude: 40.71539
 longitude: -99.08527
 postcode: "68847"
 city: Kearney
-street: "North 2nd Avenue"
-housenumber: 3920
-phone: "308-236-5488"
+street: North 2nd Avenue
+housenumber: "3920"
+phone: 308-236-5488
 opening_hours: ""
 website: ""

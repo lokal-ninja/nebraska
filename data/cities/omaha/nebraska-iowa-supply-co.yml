@@ -1,11 +1,11 @@
 id: 806248560
-type: way
+type: node
 latitude: 41.2281
 longitude: -96.01317
 postcode: "68106"
 city: Omaha
-street: "South 66th Street"
-housenumber: 3441
-phone: "+1-402-393-8350"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://neiasupply.com/"
+street: South 66th Street
+housenumber: "3441"
+phone: +1-402-393-8350
+opening_hours: Mo-Fr 08:00-17:00
+website: https://neiasupply.com/

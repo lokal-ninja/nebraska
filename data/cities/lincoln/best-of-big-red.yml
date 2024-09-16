@@ -4,8 +4,8 @@ latitude: 40.79763
 longitude: -96.62588
 postcode: "68510"
 city: Lincoln
-street: "A Street"
-housenumber: 6891
-phone: "+1-402-261-3752"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su 10:00-15:00"
-website: "https://www.bestofbigred.com/"
+street: A Street
+housenumber: "6891"
+phone: +1-402-261-3752
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su 10:00-15:00
+website: https://www.bestofbigred.com/

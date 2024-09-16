@@ -4,8 +4,8 @@ latitude: 41.23883
 longitude: -95.99886
 postcode: "68106"
 city: Omaha
-street: "Center Street"
-housenumber: 5504
-phone: "+1-402-359-1739"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-15:00"
-website: "https://omahaautosforsale.com/"
+street: Center Street
+housenumber: "5504"
+phone: +1-402-359-1739
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-15:00
+website: https://omahaautosforsale.com/

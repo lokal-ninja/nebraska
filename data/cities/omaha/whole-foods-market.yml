@@ -1,11 +1,11 @@
 id: 168955179
-type: way
+type: node
 latitude: 41.26252
 longitude: -96.06873
 postcode: "68114"
 city: Omaha
-street: "Regency Circle"
-housenumber: 10020
-phone: "+1 402-393-1200"
-opening_hours: "08:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/omaha"
+street: Regency Circle
+housenumber: "10020"
+phone: +1 402-393-1200
+opening_hours: 08:00-21:00
+website: https://www.wholefoodsmarket.com/stores/omaha

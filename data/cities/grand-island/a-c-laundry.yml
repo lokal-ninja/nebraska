@@ -1,11 +1,11 @@
 id: 549579176
-type: way
+type: node
 latitude: 40.91989
 longitude: -98.35882
 postcode: "68801"
 city: Grand Island
-street: "North Broadwell Avenue"
-housenumber: 366
+street: North Broadwell Avenue
+housenumber: "366"
 phone: ""
 opening_hours: ""
 website: ""

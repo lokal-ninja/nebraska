@@ -1,11 +1,11 @@
 id: 948546934
-type: way
+type: node
 latitude: 41.21362
 longitude: -96.07707
 postcode: "68127"
 city: Omaha
-street: "J Street"
-housenumber: 10433
-phone: "+1 402 339 8080"
+street: J Street
+housenumber: "10433"
+phone: +1 402 339 8080
 opening_hours: ""
-website: "https://locations.airgas.com/ne/omaha/airgas-store-n195.html"
+website: https://locations.airgas.com/ne/omaha/airgas-store-n195.html

@@ -1,11 +1,11 @@
 id: 195441227
-type: way
+type: node
 latitude: 40.72999
 longitude: -96.59769
 postcode: "68526"
 city: Lincoln
-street: "Amber Hill Court"
-housenumber: 9000
-phone: "+1 402-420-0011"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Amber Hill Court
+housenumber: "9000"
+phone: +1 402-420-0011
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

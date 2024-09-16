@@ -1,11 +1,11 @@
 id: 422770539
-type: way
+type: node
 latitude: 40.80895
 longitude: -96.69144
 postcode: "68510"
 city: Lincoln
-street: "K Street"
-housenumber: 2051
-phone: "402-475-8441"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.carstar.com/store/glenns-carstar-body-shop-lincoln-nebraska"
+street: K Street
+housenumber: "2051"
+phone: 402-475-8441
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.carstar.com/store/glenns-carstar-body-shop-lincoln-nebraska

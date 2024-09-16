@@ -1,11 +1,11 @@
 id: 805819204
-type: way
+type: node
 latitude: 41.22506
 longitude: -95.98882
 postcode: "68106"
 city: Omaha
-street: "South 49th Avenue"
-housenumber: 3705
-phone: "+1-402-216-5784"
+street: South 49th Avenue
+housenumber: "3705"
+phone: +1-402-216-5784
 opening_hours: ""
-website: "fosterssharpeningservice.com"
+website: fosterssharpeningservice.com

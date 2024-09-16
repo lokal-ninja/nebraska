@@ -1,11 +1,11 @@
 id: 1309507076
-type: way
+type: node
 latitude: 40.86224
 longitude: -96.63803
 postcode: "68507"
 city: Lincoln
-street: "Cornhusker Highway"
-housenumber: 6001
+street: Cornhusker Highway
+housenumber: "6001"
 phone: ""
 opening_hours: ""
 website: ""

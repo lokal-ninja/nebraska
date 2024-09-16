@@ -1,11 +1,11 @@
 id: 736675917
-type: way
+type: node
 latitude: 40.72416
 longitude: -96.68202
 postcode: "68516"
 city: Lincoln
-street: "South 28th Street"
-housenumber: 8701
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/ne/lincoln/8701-s-28th-street"
+street: South 28th Street
+housenumber: "8701"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/ne/lincoln/8701-s-28th-street

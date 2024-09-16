@@ -1,11 +1,11 @@
 id: 679141629
-type: way
+type: node
 latitude: 42.29839
 longitude: -96.48904
 postcode: "68030"
 city: Homer
-street: "Grant Road"
-housenumber: 725
-phone: "(402) 698-2414"
-opening_hours: "Mo-Fr 08:00-17:00, Sa 08:00-12:00, Su closed"
+street: Grant Road
+housenumber: "725"
+phone: (402) 698-2414
+opening_hours: Mo-Fr 08:00-17:00, Sa 08:00-12:00, Su closed
 website: ""

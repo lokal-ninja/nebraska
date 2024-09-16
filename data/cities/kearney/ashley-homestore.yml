@@ -1,11 +1,11 @@
 id: 828285023
-type: way
+type: node
 latitude: 40.71728
 longitude: -99.08556
 postcode: "68845"
 city: Kearney
-street: "2nd Avenue"
-housenumber: 4318
-phone: "+1 308-234-2404"
+street: 2nd Avenue
+housenumber: "4318"
+phone: +1 308-234-2404
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/nebraska/kearney/7710000268/"
+website: https://stores.ashleyfurniture.com/store/us/nebraska/kearney/7710000268/

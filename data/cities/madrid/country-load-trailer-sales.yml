@@ -1,11 +1,11 @@
 id: 1245089100
-type: way
+type: node
 latitude: 40.84992
 longitude: -101.5472
 postcode: "69150"
 city: Madrid
-street: "Whittier Street;South Denison Avenue"
-housenumber: 102
-phone: "+1-308-326-4660"
-opening_hours: "Mo-Fr 07:00-17:00, Sa 08:00-12:00"
-website: "https://countryloadtrailersales.com/"
+street: Whittier Street;South Denison Avenue
+housenumber: "102"
+phone: +1-308-326-4660
+opening_hours: Mo-Fr 07:00-17:00, Sa 08:00-12:00
+website: https://countryloadtrailersales.com/

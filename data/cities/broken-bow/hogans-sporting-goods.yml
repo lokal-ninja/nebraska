@@ -1,11 +1,11 @@
 id: 238692839
-type: way
+type: node
 latitude: 41.40208
 longitude: -99.64073
 postcode: ""
 city: Broken Bow
-street: "South 9th Avenue"
-housenumber: 429
-phone: "+1 308-872-6232"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://www.facebook.com/hoganssportinggoods"
+street: South 9th Avenue
+housenumber: "429"
+phone: +1 308-872-6232
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://www.facebook.com/hoganssportinggoods

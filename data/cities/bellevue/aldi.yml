@@ -1,11 +1,11 @@
 id: 315991659
-type: way
+type: node
 latitude: 41.15983
 longitude: -95.94342
 postcode: "68123"
 city: Bellevue
-street: "Cornhusker"
-housenumber: 2112
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/ne/bellevue/2112-cornhusker"
+street: Cornhusker
+housenumber: "2112"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/ne/bellevue/2112-cornhusker

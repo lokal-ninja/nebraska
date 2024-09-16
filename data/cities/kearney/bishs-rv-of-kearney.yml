@@ -1,11 +1,11 @@
 id: 572422666
-type: way
+type: node
 latitude: 40.67052
 longitude: -99.08049
 postcode: "68847"
 city: Kearney
-street: "East 1st Street"
-housenumber: 115
-phone: "(308)-455-8200"
-opening_hours: "Mo-Fr 09:00-18:00"
+street: East 1st Street
+housenumber: "115"
+phone: (308)-455-8200
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

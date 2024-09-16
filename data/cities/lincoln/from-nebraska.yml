@@ -4,8 +4,8 @@ latitude: 40.81567
 longitude: -96.70977
 postcode: "68508"
 city: Lincoln
-street: "Q Street"
-housenumber: 803
-phone: "402-476-2455"
-opening_hours: "Mo-Sa 10:00-21:00, Su 12:00-18:00"
-website: "https://fromne.com/"
+street: Q Street
+housenumber: "803"
+phone: 402-476-2455
+opening_hours: Mo-Sa 10:00-21:00, Su 12:00-18:00
+website: https://fromne.com/

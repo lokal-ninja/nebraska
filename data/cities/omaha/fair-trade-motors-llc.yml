@@ -4,8 +4,8 @@ latitude: 41.2388
 longitude: -95.99885
 postcode: "68106"
 city: Omaha
-street: "Center Street"
-housenumber: 5504
-phone: "+1-402-502-2020"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://fairtradeomaha.com/"
+street: Center Street
+housenumber: "5504"
+phone: +1-402-502-2020
+opening_hours: Mo-Sa 09:00-18:00
+website: https://fairtradeomaha.com/

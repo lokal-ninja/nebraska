@@ -1,11 +1,11 @@
 id: 1034856874
-type: way
+type: node
 latitude: 40.81652
 longitude: -96.65235
 postcode: "68504"
 city: Lincoln
-street: "North 50th Street"
-housenumber: 333
-phone: "+1 402-466-3443"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.officedepot.com/storelocator/ne/lincoln/office-depot-165"
+street: North 50th Street
+housenumber: "333"
+phone: +1 402-466-3443
+opening_hours: Mo-Fr 08:00-20:00; Sa 10:00-19:00; Su 11:00-18:00
+website: https://www.officedepot.com/storelocator/ne/lincoln/office-depot-165

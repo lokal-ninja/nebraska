@@ -1,11 +1,11 @@
 id: 520446009
-type: way
+type: node
 latitude: 41.43847
 longitude: -97.36026
 postcode: "68602"
 city: Columbus
-street: "23rd Street"
-housenumber: 2207
+street: 23rd Street
+housenumber: "2207"
 phone: ""
 opening_hours: ""
 website: ""

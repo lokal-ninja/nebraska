@@ -1,11 +1,11 @@
 id: 197740595
-type: way
+type: node
 latitude: 40.87857
 longitude: -96.68029
 postcode: "68521"
 city: Lincoln
-street: "North 27th Street"
-housenumber: 6600
-phone: "+1-402-235-6697"
+street: North 27th Street
+housenumber: "6600"
+phone: +1-402-235-6697
 opening_hours: ""
-website: "https://www.elwaypslincoln.com/"
+website: https://www.elwaypslincoln.com/

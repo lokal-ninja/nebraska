@@ -1,11 +1,11 @@
 id: 632498206
-type: way
+type: node
 latitude: 41.52659
 longitude: -96.14126
 postcode: "68008"
 city: Blair
-street: "Holly Street"
-housenumber: 1882
-phone: "+1 402-533-8222"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/4568/blair-ne/whats-new"
+street: Holly Street
+housenumber: "1882"
+phone: +1 402-533-8222
+opening_hours: 24/7
+website: https://www.walmart.com/store/4568/blair-ne/whats-new

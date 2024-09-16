@@ -1,11 +1,11 @@
 id: 760084792
-type: way
+type: node
 latitude: 41.22627
 longitude: -96.02288
 postcode: "68124"
 city: Omaha
-street: "South 72nd Street"
-housenumber: 3529
-phone: "+1-402-281-4035"
-opening_hours: "24/7"
-website: "buckysexpress.com"
+street: South 72nd Street
+housenumber: "3529"
+phone: +1-402-281-4035
+opening_hours: 24/7
+website: buckysexpress.com

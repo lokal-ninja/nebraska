@@ -1,11 +1,11 @@
 id: 175680738
-type: way
+type: node
 latitude: 41.24842
 longitude: -96.07397
 postcode: "68124"
 city: Omaha
-street: "Pacific Street"
-housenumber: 10317
-phone: "+1 402-391-3698"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/ne/omaha/719/"
+street: Pacific Street
+housenumber: "10317"
+phone: +1 402-391-3698
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/ne/omaha/719/

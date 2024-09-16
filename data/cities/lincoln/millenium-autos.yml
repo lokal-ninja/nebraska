@@ -1,11 +1,11 @@
 id: 1009321105
-type: way
+type: node
 latitude: 40.69765
 longitude: -96.70157
 postcode: "68430"
 city: Lincoln
-street: "Saltillo Road"
-housenumber: 1400
+street: Saltillo Road
+housenumber: "1400"
 phone: ""
 opening_hours: ""
 website: ""

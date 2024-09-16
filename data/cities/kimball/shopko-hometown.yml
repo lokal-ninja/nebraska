@@ -4,8 +4,8 @@ latitude: 41.22472
 longitude: -103.66186
 postcode: "69145"
 city: Kimball
-street: "South Chestnut Street"
-housenumber: 1217
-phone: "+1 308 235 2721"
-opening_hours: "Mo-We 09:00-21:00; Th 08:00-19:00; Fr-Sa 08:00-21:00; Su 09:00-18:00"
+street: South Chestnut Street
+housenumber: "1217"
+phone: +1 308 235 2721
+opening_hours: Mo-We 09:00-21:00; Th 08:00-19:00; Fr-Sa 08:00-21:00; Su 09:00-18:00
 website: ""

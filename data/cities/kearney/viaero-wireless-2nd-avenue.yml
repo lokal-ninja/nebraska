@@ -1,11 +1,11 @@
 id: 828232877
-type: way
+type: node
 latitude: 40.71378
 longitude: -99.08332
 postcode: "68845"
 city: Kearney
-street: "2nd Avenue"
-housenumber: 3821
+street: 2nd Avenue
+housenumber: "3821"
 phone: ""
 opening_hours: ""
 website: ""

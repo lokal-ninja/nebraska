@@ -4,8 +4,8 @@ latitude: 41.25792
 longitude: -95.97088
 postcode: "68131"
 city: Omaha
-street: "Farnam Street"
-housenumber: 3852
-phone: "+1-531-222-8939"
-opening_hours: "Tu,We,Th 09:00-20:00; Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://www.oliverandtate.com/"
+street: Farnam Street
+housenumber: "3852"
+phone: +1-531-222-8939
+opening_hours: Tu,We,Th 09:00-20:00; Fr 09:00-18:00; Sa 09:00-17:00
+website: https://www.oliverandtate.com/

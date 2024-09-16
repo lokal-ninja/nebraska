@@ -1,11 +1,11 @@
 id: 184723350
-type: way
+type: node
 latitude: 41.13314
 longitude: -96.02911
 postcode: "68046"
 city: Papillion
-street: "Towne Center Parkway"
-housenumber: 7701
-phone: "+1 402-592-1190"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/papillion-ne-292"
+street: Towne Center Parkway
+housenumber: "7701"
+phone: +1 402-592-1190
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/papillion-ne-292

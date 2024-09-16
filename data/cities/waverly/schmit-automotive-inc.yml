@@ -1,11 +1,11 @@
 id: 198996377
-type: way
+type: node
 latitude: 40.91689
 longitude: -96.52675
 postcode: "68462"
 city: Waverly
-street: "Highway 6"
-housenumber: 14311
-phone: "+1-402-786-2224"
-opening_hours: "Mo-Fr 07:30-17:30"
-website: "https://schmitauto.com"
+street: Highway 6
+housenumber: "14311"
+phone: +1-402-786-2224
+opening_hours: Mo-Fr 07:30-17:30
+website: https://schmitauto.com

@@ -1,11 +1,11 @@
 id: 210544036
-type: way
+type: node
 latitude: 40.8564
 longitude: -96.70014
 postcode: "68521"
 city: Lincoln
-street: "Superior Street"
-housenumber: 1401
-phone: "+1 402-742-7004"
-opening_hours: "Mo-Sa 07:30-20:00; Su 09:00-18:00"
+street: Superior Street
+housenumber: "1401"
+phone: +1 402-742-7004
+opening_hours: Mo-Sa 07:30-20:00; Su 09:00-18:00
 website: ""

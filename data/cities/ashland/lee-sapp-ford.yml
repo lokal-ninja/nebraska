@@ -4,8 +4,8 @@ latitude: 41.03942
 longitude: -96.37111
 postcode: "68003"
 city: Ashland
-street: "Silver Street"
-housenumber: 1602
-phone: "+1-402-944-3367"
-opening_hours: "Mo,We,Fr 07:00-18:00; Tu,Th 07:00-19:00; Sa 07:00-14:00"
-website: "lsford.com"
+street: Silver Street
+housenumber: "1602"
+phone: +1-402-944-3367
+opening_hours: Mo,We,Fr 07:00-18:00; Tu,Th 07:00-19:00; Sa 07:00-14:00
+website: lsford.com

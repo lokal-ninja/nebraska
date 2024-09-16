@@ -1,11 +1,11 @@
 id: 700469391
-type: way
+type: node
 latitude: 41.08646
 longitude: -96.13719
 postcode: "68059"
 city: Springfield
-street: "Park Drive"
-housenumber: 730
+street: Park Drive
+housenumber: "730"
 phone: ""
 opening_hours: ""
 website: ""

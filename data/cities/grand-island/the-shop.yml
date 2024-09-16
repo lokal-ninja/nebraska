@@ -1,11 +1,11 @@
 id: 549372527
-type: way
+type: node
 latitude: 40.92557
 longitude: -98.35022
 postcode: "68801"
 city: Grand Island
-street: "North Eddy Street"
-housenumber: 404
+street: North Eddy Street
+housenumber: "404"
 phone: ""
 opening_hours: ""
 website: ""

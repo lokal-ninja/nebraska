@@ -1,11 +1,11 @@
 id: 807405364
-type: way
+type: node
 latitude: 41.25981
 longitude: -95.97632
 postcode: "68131"
 city: Omaha
-street: "Dodge Street"
-housenumber: 4202
-phone: "+1-402-502-0470"
-opening_hours: "Mo-Th 08:00-22:00; Fr 08:00-20:00; Sa 09:00-18:00; Su 12:00-18:00"
-website: "https://palmbeachtan.com/locations/NE/42nd-Dodge-Dodge-Street"
+street: Dodge Street
+housenumber: "4202"
+phone: +1-402-502-0470
+opening_hours: Mo-Th 08:00-22:00; Fr 08:00-20:00; Sa 09:00-18:00; Su 12:00-18:00
+website: https://palmbeachtan.com/locations/NE/42nd-Dodge-Dodge-Street

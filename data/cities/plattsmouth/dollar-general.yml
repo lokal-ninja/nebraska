@@ -1,11 +1,11 @@
 id: 1231307110
-type: way
+type: node
 latitude: 41.00331
 longitude: -95.89645
 postcode: "68048"
 city: Plattsmouth
-street: "8th Avenue"
-housenumber: 1410
+street: 8th Avenue
+housenumber: "1410"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ne/plattsmouth/2788"
+website: https://www.dollargeneral.com/store-directory/ne/plattsmouth/2788

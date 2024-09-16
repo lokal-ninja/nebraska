@@ -1,11 +1,11 @@
 id: 189988372
-type: way
+type: node
 latitude: 41.15365
 longitude: -95.91554
 postcode: "68005"
 city: Bellevue
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
+opening_hours: Mo-Su 07:00-23:00
 website: ""

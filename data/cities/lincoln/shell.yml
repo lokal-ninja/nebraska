@@ -1,11 +1,11 @@
 id: 195452740
-type: way
+type: node
 latitude: 40.733
 longitude: -96.60285
 postcode: "68526"
 city: Lincoln
-street: "Amber Hill Court"
-housenumber: 8600
-phone: "+1-402-328-0328"
-opening_hours: "24/7"
-website: "https://find.shell.com/us/fuel/12580340-8600-amber-hill-ct/en_US"
+street: Amber Hill Court
+housenumber: "8600"
+phone: +1-402-328-0328
+opening_hours: 24/7
+website: https://find.shell.com/us/fuel/12580340-8600-amber-hill-ct/en_US

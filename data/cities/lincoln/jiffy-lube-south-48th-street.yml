@@ -1,11 +1,11 @@
 id: 697252109
-type: way
+type: node
 latitude: 40.7878
 longitude: -96.65343
 postcode: "68506"
 city: Lincoln
-street: "South 48th Street"
-housenumber: 2402
+street: South 48th Street
+housenumber: "2402"
 phone: ""
 opening_hours: ""
 website: ""

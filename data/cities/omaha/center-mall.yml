@@ -1,11 +1,11 @@
 id: 406323076
-type: way
+type: node
 latitude: 41.24104
 longitude: -95.97549
 postcode: "68105"
 city: Omaha
-street: "South 42nd Street"
-housenumber: 1941
-phone: "+1-402-344-4600"
-opening_hours: "Mo-Su 06:00-20:00"
+street: South 42nd Street
+housenumber: "1941"
+phone: +1-402-344-4600
+opening_hours: Mo-Su 06:00-20:00
 website: ""

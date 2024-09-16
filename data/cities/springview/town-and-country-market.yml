@@ -1,11 +1,11 @@
 id: 711160558
-type: way
+type: node
 latitude: 42.82444
 longitude: -99.74816
 postcode: "68778"
 city: Springview
-street: "North Main Street"
-housenumber: 101
-phone: "+1-402-497-3901"
-opening_hours: "08:00-18:30"
+street: North Main Street
+housenumber: "101"
+phone: +1-402-497-3901
+opening_hours: 08:00-18:30
 website: ""

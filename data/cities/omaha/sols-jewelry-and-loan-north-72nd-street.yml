@@ -1,11 +1,11 @@
 id: 914756521
-type: way
+type: node
 latitude: 41.2854
 longitude: -96.02457
 postcode: "68134"
 city: Omaha
-street: "North 72nd Street"
-housenumber: 2906
-phone: "+1 402 397 2845"
+street: North 72nd Street
+housenumber: "2906"
+phone: +1 402 397 2845
 opening_hours: ""
-website: "https://solsomaha.com"
+website: https://solsomaha.com

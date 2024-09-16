@@ -1,11 +1,11 @@
 id: 806248581
-type: way
+type: node
 latitude: 41.2391
 longitude: -95.99758
 postcode: "68106"
 city: Omaha
-street: "Center Street"
-housenumber: 5435
-phone: "+1-402-558-4331"
-opening_hours: "Tu,We,Fr 08:30-16:30; Th 08:30-18:00; Sa 08:30-12:00"
-website: "https://centertrophy.net/"
+street: Center Street
+housenumber: "5435"
+phone: +1-402-558-4331
+opening_hours: Tu,We,Fr 08:30-16:30; Th 08:30-18:00; Sa 08:30-12:00
+website: https://centertrophy.net/

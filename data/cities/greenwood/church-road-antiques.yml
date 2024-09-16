@@ -1,11 +1,11 @@
 id: 478353173
-type: way
+type: node
 latitude: 40.95746
 longitude: -96.44485
 postcode: "68366"
 city: Greenwood
-street: "Church Road"
-housenumber: 20311
-phone: "+1-402-789-9000"
+street: Church Road
+housenumber: "20311"
+phone: +1-402-789-9000
 opening_hours: ""
 website: ""

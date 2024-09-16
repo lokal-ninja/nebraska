@@ -1,11 +1,11 @@
 id: 914756518
-type: way
+type: node
 latitude: 41.28574
 longitude: -96.02365
 postcode: "68134"
 city: Omaha
-street: "North 72nd Street"
-housenumber: 2901
+street: North 72nd Street
+housenumber: "2901"
 phone: ""
 opening_hours: ""
 website: ""

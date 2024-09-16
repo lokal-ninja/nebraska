@@ -1,11 +1,11 @@
 id: 1134332022
-type: way
+type: node
 latitude: 40.85654
 longitude: -96.64458
 postcode: "68504"
 city: Lincoln
-street: "Cornhusker Highway"
-housenumber: 5545
-phone: "+1-402-347-4982"
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:30-19:00"
-website: "https://www.atlasautosalesne.com/"
+street: Cornhusker Highway
+housenumber: "5545"
+phone: +1-402-347-4982
+opening_hours: Mo-Sa 10:00-19:00; Su 12:30-19:00
+website: https://www.atlasautosalesne.com/

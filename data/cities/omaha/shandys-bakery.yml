@@ -4,8 +4,9 @@ latitude: 41.20208
 longitude: -96.13001
 postcode: "68137"
 city: Omaha
-street: "T Plaza"
-housenumber: 13811
-phone: "+1-402-340-3925"
-opening_hours: "Mo 09:00-14:00, Tu 07:30-18:00, We-Th 09:00-16:00, Fr 09:00-18:00, Sa 07:30-15:00"
-website: "https://shandysbakery.com"
+street: T Plaza
+housenumber: "13811"
+phone: +1-402-340-3925
+opening_hours: Mo 09:00-14:00, Tu 07:30-18:00, We-Th 09:00-16:00, Fr 09:00-18:00,
+    Sa 07:30-15:00
+website: https://shandysbakery.com

@@ -1,11 +1,11 @@
 id: 772765081
-type: way
+type: node
 latitude: 41.31709
 longitude: -96.06416
 postcode: "68134"
 city: Omaha
-street: "Redick Avenue"
-housenumber: 9815
-phone: "+1-402-334-5625"
+street: Redick Avenue
+housenumber: "9815"
+phone: +1-402-334-5625
 opening_hours: ""
 website: ""

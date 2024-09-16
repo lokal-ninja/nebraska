@@ -1,11 +1,11 @@
 id: 776339875
-type: way
+type: node
 latitude: 40.78159
 longitude: -96.60656
 postcode: "68506"
 city: Lincoln
-street: "South 84th Street"
-housenumber: 3033
+street: South 84th Street
+housenumber: "3033"
 phone: "+14024866611"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.fareway.com/meatmarkets/store/169"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.fareway.com/meatmarkets/store/169

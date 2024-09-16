@@ -1,11 +1,11 @@
 id: 488070902
-type: way
+type: node
 latitude: 40.8238
 longitude: -96.68208
 postcode: "68503"
 city: Lincoln
-street: "North 27th Street"
-housenumber: 1012
+street: North 27th Street
+housenumber: "1012"
 phone: ""
 opening_hours: ""
 website: ""

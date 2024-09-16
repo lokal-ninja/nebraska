@@ -1,11 +1,11 @@
 id: 544466329
-type: way
+type: node
 latitude: 41.03859
 longitude: -96.38013
 postcode: "68003"
 city: Ashland
-street: "Silver Street"
-housenumber: 2301
-phone: "+1-402-944-3353"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "nofrillssupermarkets.com"
+street: Silver Street
+housenumber: "2301"
+phone: +1-402-944-3353
+opening_hours: Mo-Su 06:00-22:00
+website: nofrillssupermarkets.com

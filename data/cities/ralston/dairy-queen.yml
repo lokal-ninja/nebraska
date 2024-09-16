@@ -1,11 +1,11 @@
 id: 1237480043
-type: way
+type: node
 latitude: 41.19208
 longitude: -96.04249
 postcode: "68127"
 city: Ralston
-street: "South 84th Street"
-housenumber: 6809
+street: South 84th Street
+housenumber: "6809"
 phone: ""
 opening_hours: ""
 website: ""

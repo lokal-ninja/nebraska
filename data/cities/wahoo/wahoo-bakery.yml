@@ -1,11 +1,11 @@
 id: 895623908
-type: way
+type: node
 latitude: 41.21072
 longitude: -96.61847
 postcode: "68066"
 city: Wahoo
-street: "North Linden Street"
-housenumber: 544
+street: North Linden Street
+housenumber: "544"
 phone: "+14024433387"
 opening_hours: ""
-website: "https://wahoobakery.com/"
+website: https://wahoobakery.com/

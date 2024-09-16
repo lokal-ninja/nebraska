@@ -1,11 +1,11 @@
 id: 288567681
-type: way
+type: node
 latitude: 41.25428
 longitude: -95.9314
 postcode: "68102"
 city: Omaha
-street: "Jackson Street"
-housenumber: 1123
+street: Jackson Street
+housenumber: "1123"
 phone: ""
 opening_hours: ""
 website: ""
