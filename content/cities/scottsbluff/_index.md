@@ -1,6 +1,6 @@
 ---
 title: Scottsbluff
 url: /scottsbluff/
-latitude: 41.881
+latitude: 41.877
 longitude: -103.676
 ---
