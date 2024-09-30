@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
-url: /omaha/lowes-north-147th-street/
+url: /omaha/lowes-dodge-street/
 shop: doityourself
 ---
