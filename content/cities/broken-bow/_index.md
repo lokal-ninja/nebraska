@@ -1,6 +1,6 @@
 ---
 title: Broken Bow
 url: /broken-bow/
-latitude: 41.404
-longitude: -99.643
+latitude: 41.402
+longitude: -99.641
 ---

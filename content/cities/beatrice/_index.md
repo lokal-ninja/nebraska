@@ -1,6 +1,6 @@
 ---
 title: Beatrice
 url: /beatrice/
-latitude: 40.266
-longitude: -96.722
+latitude: 40.277
+longitude: -96.746
 ---
