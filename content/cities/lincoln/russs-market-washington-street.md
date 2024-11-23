@@ -1,5 +1,5 @@
 ---
 title: "Russ's Market"
-url: /lincoln/russs-market-north-66th-street/
+url: /lincoln/russs-market-washington-street/
 shop: supermarket
 ---
