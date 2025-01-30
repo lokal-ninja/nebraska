@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /omaha/walmart-supercenter-ames-avenue/
+url: /omaha/walmart-supercenter-wright-street/
 shop: supermarket
 ---
