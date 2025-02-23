@@ -1,5 +1,5 @@
 ---
 title: "The Home Depot"
-url: /lincoln/the-home-depot-north-27th-street/
+url: /omaha/the-home-depot-l-street/
 shop: doityourself
 ---
