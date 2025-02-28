@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /lincoln/walmart-supercenter-north-85th-street/
+url: /lincoln/walmart-supercenter-jamie-lane/
 shop: supermarket
 ---
