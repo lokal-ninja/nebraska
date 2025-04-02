@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
-url: /lincoln/kohls-north-84th-street/
+url: /lincoln/kohls-south-28th-street/
 shop: department store
 ---
