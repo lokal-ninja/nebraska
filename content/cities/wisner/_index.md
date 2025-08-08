@@ -1,6 +1,6 @@
 ---
 title: Wisner
 url: /wisner/
-latitude: 41.987
-longitude: -96.914
+latitude: 41.995
+longitude: -96.927
 ---
