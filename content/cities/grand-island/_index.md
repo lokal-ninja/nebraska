@@ -1,6 +1,6 @@
 ---
 title: Grand Island
 url: /grand-island/
-latitude: 40.922
-longitude: -98.346
+latitude: 40.919
+longitude: -98.356
 ---
