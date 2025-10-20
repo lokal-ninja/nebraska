@@ -1,5 +1,5 @@
 ---
 title: "Casey's General Store"
-url: /lincoln/caseys-general-store-north-70th-street-2/
+url: /lincoln/caseys-general-store-windmill-drive/
 shop: convenience
 ---
