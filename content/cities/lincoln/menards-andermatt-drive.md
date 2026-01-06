@@ -1,5 +1,5 @@
 ---
 title: "Menards"
-url: /lincoln/menards-north-27th-street/
+url: /lincoln/menards-andermatt-drive/
 shop: doityourself
 ---
