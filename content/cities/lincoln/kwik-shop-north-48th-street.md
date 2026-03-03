@@ -1,5 +1,5 @@
 ---
 title: "Kwik Shop"
-url: /lincoln/kwik-shop-calvert-street/
+url: /lincoln/kwik-shop-north-48th-street/
 shop: convenience
 ---
