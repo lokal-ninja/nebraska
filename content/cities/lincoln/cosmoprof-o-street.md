@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
-url: /lincoln/cosmoprof-south-56th-street/
+url: /lincoln/cosmoprof-o-street/
 shop: hairdresser supply
 ---
