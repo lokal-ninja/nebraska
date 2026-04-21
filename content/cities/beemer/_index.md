@@ -1,6 +1,6 @@
 ---
 title: Beemer
 url: /beemer/
-latitude: 41.93
-longitude: -96.802
+latitude: 41.927
+longitude: -96.807
 ---
