@@ -1,6 +1,6 @@
 ---
 title: Falls City
 url: /falls-city/
-latitude: 40.059
-longitude: -95.602
+latitude: 40.058
+longitude: -95.604
 ---
