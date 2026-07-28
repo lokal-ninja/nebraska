@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /omaha/target-north-132nd-street/
+url: /omaha/target-dodge-street/
 shop: department store
 ---
