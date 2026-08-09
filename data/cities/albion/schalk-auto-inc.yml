@@ -7,7 +7,5 @@ city: Albion
 street: South 3rd Street
 housenumber: "305"
 phone: +1-402-395-2195
-opening_hours: "Monday\t8:00 AM - 5:00 PM Tuesday\t8:00 AM - 5:00 PM Wednesday\t8:00
-    AM - 5:00 PM Thursday\t8:00 AM - 5:00 PM Friday\t8:00 AM - 5:00 PM Saturday\t8:00
-    AM - 12:00 PM Sunday\tClosed"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00; Su closed
 website: ""

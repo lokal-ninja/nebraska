@@ -1,5 +1,5 @@
 ---
-title: "C-Station"
+title: "C Station"
 url: /lincoln/c-station/
 shop: convenience
 ---
