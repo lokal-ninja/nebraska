@@ -1,5 +1,5 @@
 ---
 title: "Casey's General Store"
-url: /sarpy/caseys-general-store/
+url: /la-vista/caseys-general-store/
 shop: convenience
 ---
